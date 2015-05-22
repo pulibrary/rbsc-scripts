@@ -1,0 +1,1 @@
+curl -sLS -w "%{response_code} %{num_redirects} %{url_effective}\\n" "http://arks.princeton.edu/nd/noidu_001?bind+set+88435/gh93h0880+location+http://findingaids.princeton.edu/collections/C1468" -o /dev/null

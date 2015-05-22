@@ -1,0 +1,20 @@
+DCS Label Scraping Workflow
+
+1.	Convert Labels to Text
+	a.	Toggle paragraph marks
+	b.	Highlight table; Table Tools -> Layout -> Data -> Convert to Text (separate text using paragraph marks)
+	c.	Replace double paragraph marks (^13) with unique string (marker) and single paragraph (e.g.*****^p)
+	d.	Replace paragraph marks other than end of label with tabs: 
+		i.	find ([!\*])^13
+		ii.	replace with ^t
+	e.	Eliminate unique string (marker) (use a simple search—uncheck wildcards!)
+	f.	Cleanup: replace multiple paragraph marks with single paragraph marks (^p); replace leading tabs (^13^9) with nothing (^p); replace inappropriate soft returns (^11) with paragraph marks (^p); etc. as needed
+
+2.	Convert Text to Table
+	a.	Select all; Insert -> Table -> Convert Text to Table
+
+3.	Sort
+	a.	Table Tools -> Layout -> Sort
+	b.	Sort by Column 1, THEN by Column 2
+
+4.	Create Labels from Mail Merge
