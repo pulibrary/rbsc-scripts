@@ -1,0 +1,1 @@
+ls -1b eads/mss | sed 's/\(.*\)\.EAD\.xml/\1\\n /' >mss.txt

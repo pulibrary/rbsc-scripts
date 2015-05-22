@@ -1,0 +1,3 @@
+sort "workspace/rbscXSL/Data Cleanup various/Container project for final move/containers.txt" | uniq > containers_unique.txt
+
+mv containers_unique.txt "workspace/rbscXSL/Data Cleanup various/Container project for final move/containers_unique.txt"

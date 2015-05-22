@@ -1,0 +1,1 @@
+dir c:\music /a/b/o/s>list.txt

@@ -1,0 +1,3 @@
+To find out which EAD files were added to SVN in 2013 and save sorted EAD file names to New2013.txt, enter this:
+
+svn diff --summarize -r{2013-01-01}:{2013-12-31} http://diglib3.princeton.edu/svn/pulfa/trunk/eads | grep 'A ' | grep -Po 'http://diglib3.princeton.edu/svn/pulfa/trunk/eads/.*/\K.*' | sort > New2013.txt
