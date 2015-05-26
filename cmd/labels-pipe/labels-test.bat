@@ -1,0 +1,6 @@
+java -cp "C:\Program Files\Oxygen XML Editor 15\lib\saxon9ee.jar" net.sf.saxon.Transform -t -s:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\Locations2015\sample_input.EAD.xml" -xsl:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\RBSC_callNumber.xsl" -o:"C:\Users\heberlei\Desktop\callnumber.xml" 
+java -cp "C:\Program Files\Oxygen XML Editor 15\lib\saxon9ee.jar" net.sf.saxon.Transform -t -s:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\Locations2015\sample_input.EAD.xml" -xsl:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\RBSC_folderLabels_left.xsl" -o:"C:\Users\heberlei\Desktop\leftlabels.xml" 
+java -cp "C:\Program Files\Oxygen XML Editor 15\lib\saxon9ee.jar" net.sf.saxon.Transform -t -s:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\Locations2015\sample_input.EAD.xml" -xsl:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\RBSC_folderLabels_right.xsl" -o:"C:\Users\heberlei\Desktop\rightlabels.xml" 
+java -cp "C:\Program Files\Oxygen XML Editor 15\lib\saxon9ee.jar" net.sf.saxon.Transform -t -s:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\Locations2015\sample_input.EAD.xml" -xsl:"C:\Users\heberlei\Documents\SVN Working Copies\trunk\rbscXSL\RBSC_boxLabels.xsl" -o:"C:\Users\heberlei\Desktop\boxlabels.xml" 
+labels-test2.bat
+2>log.txt
