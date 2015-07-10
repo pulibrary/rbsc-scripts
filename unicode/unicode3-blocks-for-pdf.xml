@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<distinct-blocks distinct-block-count="22"
+    distinct-character-count="313">
+    <block>Arabic: C0723.1-47</block>
+    <block>BoxDrawing: MC200</block>
+    <block>CJKSymbolsandPunctuation: C0076</block>
+    <block>CombiningDiacriticalMarks: C1121</block>
+    <block>CombiningHalfMarks: C1241</block>
+    <block>CurrencySymbols: C1222</block>
+    <block>Cyrillic: LAE011</block>
+    <block>GeneralPunctuation: GC186</block>
+    <block>Greek: C0682</block>
+    <block>GreekExtended: C1460</block>
+    <block>HalfwidthandFullwidthForms: C0076</block>
+    <block>HangulSyllables: AC130</block>
+    <block>IPAExtensions: C0776</block>
+    <block>Latin-1Supplement: GC186</block>
+    <block>LatinExtended-A: GC186</block>
+    <block>LatinExtended-B: MC248</block>
+    <block>LetterlikeSymbols: LAE100</block>
+    <block>MathematicalOperators: C0942</block>
+    <block>MiscellaneousSymbols: C0199</block>
+    <block>Myanmar: AC123</block>
+    <block>SpacingModifierLetters: C0765</block>
+    <block>SuperscriptsandSubscripts: C0199</block>
+</distinct-blocks>

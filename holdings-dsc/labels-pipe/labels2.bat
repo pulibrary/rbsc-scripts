@@ -1,0 +1,6 @@
+cd "C:\Users\%USERNAME%\FOP\fop-2.0\build"
+java -jar "fop.jar" -fo "C:\Users\%USERNAME%\Desktop\Labels\callnumber.xml" -pdf C:\Users\%USERNAME%\Desktop\Labels\callnumber.pdf"
+java -jar "fop.jar" -fo "C:\Users\%USERNAME%\Desktop\Labels\leftlabels.xml" -pdf C:\Users\%USERNAME%\Desktop\Labels\leftlabels.pdf"
+java -jar "fop.jar" -fo "C:\Users\%USERNAME%\Desktop\Labels\rightlabels.xml" -pdf C:\Users\%USERNAME%\Desktop\Labels\rightlabels.pdf"
+java -jar "fop.jar" -fo "C:\Users\%USERNAME%\Desktop\Labels\boxlabels.xml" -pdf C:\Users\%USERNAME%\Desktop\Labels\boxlabels.pdf"
+"C:\Users\%USERNAME%\Documents\SVN Working Copies\trunk\rbscXSL\Locations2015\items-pipe\pipe4.bat"
