@@ -1,4 +1,4 @@
-; Macro to swap out filenames in xQueries based on user input.
+; Macro to swap out filenames in xQueries based on user input. Adapted from https://www.autoitscript.com/forum/topic/64422-replaceinfile/
 #include <File.au3>
 ;#include <Array.au3>
 
