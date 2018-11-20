@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:pul="http://library.princeton.edu/ns/marc/1.0" pul:count="1">
+    <record pul:id="7560890">
+        <marc id="7560890">
+            <leader>02633cam a2200469u 4500</leader>
+            <controlfield tag="001">7560890</controlfield>
+            <controlfield tag="005">20150210090843.0</controlfield>
+            <controlfield tag="008">130520s1775 enkaf j 000 1 eng d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(OCoLC)177739747</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(idCotsen)1343</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">NjP</subfield>
+                <subfield code="b">eng</subfield>
+                <subfield code="e">rda</subfield>
+                <subfield code="c">NjP</subfield>
+                <subfield code="d">NjP</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="4">
+                <subfield code="a">The pleasant and entertaining history of Reynard the Fox
+                    :</subfield>
+                <subfield code="b">represented in a moral light...a work equally humorous and
+                    instructive to the young and mature.</subfield>
+            </datafield>
+            <datafield tag="260" ind1=" " ind2=" ">
+                <subfield code="a">London :</subfield>
+                <subfield code="b">Printed and sold by Edwd. Ryland, printer, in the Old
+                    Bailey,</subfield>
+                <subfield code="c">[ca. 1775?]</subfield>
+                <!--   Whoa! Non-data data! This could be fun to parse!             -->
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">128 pages :</subfield>
+                <subfield code="b">illustrations (engravings) ;</subfield>
+                <subfield code="c">13 cm</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="a">text</subfield>
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="a">unmediated</subfield>
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="a">volume</subfield>
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Frontispiece included in pagination.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">"Embellished with 17 copperplates, elegantly engraved" --Title
+                    page.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">"Price 1s." --At foot of title page.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Illustrated index of characters on title page verso.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Each chapter with an explicit "moral" in verse.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="a">Engraved frontispiece, depicting a rural father explaining the
+                    "jokes [in] our merry book" to his children, half-page title page vignette, and
+                    half-page engravings at the head of each chapter; 15 small character portraits
+                    on character index page.</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="3">Cotsen c. 1</subfield>
+                <subfield code="a">Frontispiece lacking.</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="3">Cotsen c. 2:</subfield>
+                <subfield code="a">Lacks pages 38-42 &amp; 71-74.</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="3">Cotsen c. 2:</subfield>
+                <subfield code="a">Inscribed on front free endpaper: "Felicia Howard, Nov 27, 1785,"
+                    and below that, "E. Howard, 1803"; inscribed on rear fixed endpaper: "E. Howard"
+                    with pen trials on facing free endpaper; illegible pencil writing on front
+                    pastedown and rear free endpaper.</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="500" ind1=" " ind2=" ">
+                <subfield code="3">Cotsen c. 2:</subfield>
+                <subfield code="a">Frontispiece, title page vignette, and index vignettes colored
+                    in, apparently by a child reader.</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="510" ind1="4" ind2=" ">
+                <subfield code="a">ESTC,</subfield>
+                <subfield code="c">T118645</subfield>
+            </datafield>
+            <datafield tag="563" ind1=" " ind2=" ">
+                <subfield code="a">Publisher's Dutch floral paper-covered boards.</subfield>
+            </datafield>
+            <datafield tag="563" ind1=" " ind2=" ">
+                <subfield code="3">Cotsen c. 1</subfield>
+                <subfield code="a">Within later marbled-paper box.</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="563" ind1=" " ind2=" ">
+                <subfield code="3">Cotsen c. 2</subfield>
+                <subfield code="a">Later marbled-paper spine repair.</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Reynard the Fox</subfield>
+                <subfield code="v">Juvenile fiction</subfield>
+                <subfield code="v">Early works to 1800.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Animals</subfield>
+                <subfield code="v">Juvenile fiction</subfield>
+                <subfield code="v">Early works to 1800.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Foxes</subfield>
+                <subfield code="v">Juvenile fiction</subfield>
+                <subfield code="v">Early works to 1800.</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Conduct of life</subfield>
+                <subfield code="v">Juvenile fiction</subfield>
+                <subfield code="v">Early works to 1800.</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Dutch gilt papers.</subfield>
+                <subfield code="2">rbbin</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Inscriptions</subfield>
+                <subfield code="y">18th century.</subfield>
+                <subfield code="2">rbprov</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="655" ind1=" " ind2="7">
+                <subfield code="a">Markings --18th century.</subfield>
+                <subfield code="2">rbprov</subfield>
+                <subfield code="5">NjP</subfield>
+            </datafield>
+            <datafield tag="700" ind1="1" ind2=" ">
+                <subfield code="a">Ryland, Edward,</subfield>
+                <subfield code="d">active 1790-1817,</subfield>
+                <subfield code="e">printer.</subfield>
+            </datafield>
+            <datafield tag="720" ind1="1" ind2=" ">
+                <subfield code="a">Howard, Felicia.</subfield>
+            </datafield>
+            <datafield tag="720" ind1="1" ind2=" ">
+                <subfield code="a">Howard, E.</subfield>
+            </datafield>
+            <datafield tag="902" ind1=" " ind2=" ">
+                <subfield code="a">jba</subfield>
+                <subfield code="b">m</subfield>
+                <subfield code="6">a</subfield>
+                <subfield code="7">s</subfield>
+                <subfield code="d">v</subfield>
+                <subfield code="f">2</subfield>
+                <subfield code="e">20140402</subfield>
+            </datafield>
+        </marc>
+        <mfhd id="4940395">
+            <mfhdMarc id="4940395">
+                <leader>00175cx a22000851 4500</leader>
+                <controlfield tag="001">4940395</controlfield>
+                <controlfield tag="004">7560890</controlfield>
+                <controlfield tag="005">20140403171605.0</controlfield>
+                <controlfield tag="008">0605080u||||8|||4001uu|||0000000</controlfield>
+                <datafield tag="852" ind1="8" ind2=" ">
+                    <subfield code="b">ctsn</subfield>
+                    <subfield code="c">Eng 18</subfield>
+                    <subfield code="h">1343</subfield>
+                </datafield>
+            </mfhdMarc>
+            <MFHD_ID>4940395</MFHD_ID>
+            <BIB_ID>7560890</BIB_ID>
+            <LOCATION_CODE>ctsn</LOCATION_CODE>
+            <LOCATION_DISPLAY_NAME>Cotsen Children's Library (CTSN)</LOCATION_DISPLAY_NAME>
+            <LOCATION_SPINE_LABEL>CTSN</LOCATION_SPINE_LABEL>
+            <DISPLAY_CALL_NO>1343</DISPLAY_CALL_NO>
+            <NORMALIZED_CALL_NO>1343</NORMALIZED_CALL_NO>
+            <CREATE_DATE>5/8/2006 8:10:44 AM</CREATE_DATE>
+        </mfhd>
+        <mfhd id="7386214">
+            <mfhdMarc id="7386214">
+                <leader>00195cx a22000854 4500</leader>
+                <controlfield tag="001">7386214</controlfield>
+                <controlfield tag="004">7560890</controlfield>
+                <controlfield tag="005">20140403172411.0</controlfield>
+                <controlfield tag="008">1305290p 8 1001uu 0000000</controlfield>
+                <datafield tag="852" ind1="8" ind2=" ">
+                    <subfield code="b">ctsn</subfield>
+                    <subfield code="t">2</subfield>
+                    <subfield code="c">Eng 18</subfield>
+                    <subfield code="h">1343</subfield>
+                    <subfield code="x">Item no 6675061</subfield>
+                </datafield>
+            </mfhdMarc>
+            <MFHD_ID>7386214</MFHD_ID>
+            <BIB_ID>7560890</BIB_ID>
+            <LOCATION_CODE>ctsn</LOCATION_CODE>
+            <LOCATION_DISPLAY_NAME>Cotsen Children's Library (CTSN)</LOCATION_DISPLAY_NAME>
+            <LOCATION_SPINE_LABEL>CTSN</LOCATION_SPINE_LABEL>
+            <DISPLAY_CALL_NO>1343</DISPLAY_CALL_NO>
+            <NORMALIZED_CALL_NO>1343</NORMALIZED_CALL_NO>
+            <CREATE_DATE>5/29/2013 1:12:41 PM</CREATE_DATE>
+        </mfhd>
+        <item id="6839328">
+            <ITEM_ID>6839328</ITEM_ID>
+            <MFHD_ID>4940395</MFHD_ID>
+            <ITEM_ENUM/>
+            <CHRON/>
+            <YEAR/>
+            <COPY_NUMBER>1</COPY_NUMBER>
+            <ITEM_BARCODE>32101091611390</ITEM_BARCODE>
+            <ITEM_STATUS>1</ITEM_STATUS>
+            <ITEM_STATUS_DESC>Not Charged</ITEM_STATUS_DESC>
+            <TEMP_LOCATION_CODE/>
+            <TEMP_LOCATION_DISPLAY_NAME/>
+            <TEMP_LOCATION_SPINE_LABEL/>
+            <ITEM_SEQUENCE_NUMBER>1</ITEM_SEQUENCE_NUMBER>
+        </item>
+        <item id="6635665">
+            <ITEM_ID>6635665</ITEM_ID>
+            <MFHD_ID>7386214</MFHD_ID>
+            <ITEM_ENUM/>
+            <CHRON/>
+            <YEAR/>
+            <COPY_NUMBER>1</COPY_NUMBER>
+            <ITEM_BARCODE>32101091611408</ITEM_BARCODE>
+            <ITEM_STATUS>1</ITEM_STATUS>
+            <ITEM_STATUS_DESC>Not Charged</ITEM_STATUS_DESC>
+            <TEMP_LOCATION_CODE/>
+            <TEMP_LOCATION_DISPLAY_NAME/>
+            <TEMP_LOCATION_SPINE_LABEL/>
+            <ITEM_SEQUENCE_NUMBER>2</ITEM_SEQUENCE_NUMBER>
+        </item>
+    </record>
+</collection>
