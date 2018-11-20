@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+<distinct-blocks repo="mss"
+    distinct-block-count="17"
+    distinct-character-count="289">
+    <block>Arabic: C0723.1-47</block>
+    <block>CJKSymbolsandPunctuation: C0076</block>
+    <block>CombiningDiacriticalMarks: WC064</block>
+    <block>CombiningHalfMarks: C1241</block>
+    <block>CurrencySymbols: C1222</block>
+    <block>Cyrillic: C0643</block>
+    <block>GeneralPunctuation: C0641</block>
+    <block>Greek: C1491</block>
+    <block>GreekExtended: C1460</block>
+    <block>HalfwidthandFullwidthForms: C0197</block>
+    <block>IPAExtensions: C0776</block>
+    <block>Latin-1Supplement: C0123</block>
+    <block>LatinExtended-A: C0829</block>
+    <block>LatinExtended-B: C0760</block>
+    <block>MathematicalOperators: C0948</block>
+    <block>SpacingModifierLetters: C1571</block>
+    <block>SuperscriptsandSubscripts: C0849</block>
+</distinct-blocks>
+
+<distinct-blocks repo="publicpolicy"
+    distinct-block-count="11"
+    distinct-character-count="114">
+    <block>BoxDrawing: MC200</block>
+    <block>CombiningDiacriticalMarks: MC248</block>
+    <block>CombiningHalfMarks: MC248</block>
+    <block>Cyrillic: MC248</block>
+    <block>GeneralPunctuation: MC070</block>
+    <block>Greek: MC248</block>
+    <block>Latin-1Supplement: MC104</block>
+    <block>LatinExtended-A: MC104</block>
+    <block>LatinExtended-B: MC248</block>
+    <block>LetterlikeSymbols: MC248</block>
+    <block>SpacingModifierLetters: MC248</block>
+</distinct-blocks>
+
+<distinct-blocks repo="univarchives"
+    distinct-block-count="8"
+    distinct-character-count="77">
+    <block>GeneralPunctuation: AC123</block>
+    <block>Greek: AC207</block>
+    <block>HangulSyllables: AC130</block>
+    <block>Latin-1Supplement: AC123</block>
+    <block>LatinExtended-A: AC123</block>
+    <block>MathematicalOperators: AC366</block>
+    <block>Myanmar: AC123</block>
+    <block>Specials: AC057</block>
+</distinct-blocks>
+<distinct-blocks repo="rarebooks"
+    distinct-block-count="16"
+    distinct-character-count="169">
+    <block>Arrows: RBD1</block>
+    <block>CJKSymbolsandPunctuation: RBD1</block>
+    <block>CombiningDiacriticalMarks: RBD1.1</block>
+    <block>CombiningHalfMarks: RBD1.1</block>
+    <block>Cyrillic: RBD1</block>
+    <block>GeneralPunctuation: RBD1.1</block>
+    <block>Greek: RBD1.1</block>
+    <block>HalfwidthandFullwidthForms: RBD1</block>
+    <block>Latin-1Supplement: RBD1.1</block>
+    <block>LatinExtended-A: RBD1.1</block>
+    <block>LatinExtended-B: RBD1.1</block>
+    <block>MathematicalOperators: RBD1.1</block>
+    <block>MiscellaneousSymbols: RBD1</block>
+    <block>MiscellaneousTechnical: RBD1</block>
+    <block>SpacingModifierLetters: RBD1.1</block>
+    <block>SuperscriptsandSubscripts: RBD1.1</block>
+</distinct-blocks>
+
+<distinct-blocks repo="ga"
+    distinct-block-count="3"
+    distinct-character-count="15">
+    <block>GeneralPunctuation: GC186</block>
+    <block>Latin-1Supplement: GC186</block>
+    <block>LatinExtended-A: GC186</block>
+</distinct-blocks>
+
+<distinct-blocks repo="lae"
+    distinct-block-count="6"
+    distinct-character-count="48">
+    <block>Cyrillic: LAE011</block>
+    <block>GeneralPunctuation: LAE010</block>
+    <block>GeometricShapes: LAE119</block>
+    <block>Latin-1Supplement: LAE010</block>
+    <block>LatinExtended-A: LAE119</block>
+    <block>LetterlikeSymbols: LAE100</block>
+</distinct-blocks>
+<distinct-blocks repo="cotsen"
+    distinct-block-count="3"
+    distinct-character-count="11">
+    <block>GeneralPunctuation: COTSEN3</block>
+    <block>Latin-1Supplement: COTSEN3</block>
+    <block>Specials: COTSEN5</block>
+</distinct-blocks>
+<distinct-blocks repo="eng"
+    distinct-block-count="2"
+    distinct-character-count="14">
+    <block>Greek: ENG001</block>
+    <block>Latin-1Supplement: ST1</block>
+</distinct-blocks></report>

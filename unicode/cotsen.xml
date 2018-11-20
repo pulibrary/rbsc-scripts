@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codepoints>
+   <codepoint blockname="Latin-1Supplement" cid="COTSEN3_c5" codepoint="201">É</codepoint>
+   <codepoint blockname="Latin-1Supplement" cid="COTSEN3_c5" codepoint="233">é</codepoint>
+   <codepoint blockname="GeneralPunctuation" cid="COTSEN3_c79" codepoint="8220">“</codepoint>
+   <codepoint blockname="Latin-1Supplement" cid="COTSEN3_c90" codepoint="162">¢</codepoint>
+   <codepoint blockname="Latin-1Supplement" cid="COTSEN3_c120" codepoint="252">ü</codepoint>
+   <codepoint blockname="GeneralPunctuation" cid="COTSEN3_c145" codepoint="8212">—</codepoint>
+   <codepoint blockname="Latin-1Supplement" cid="COTSEN3_c155" codepoint="246">ö</codepoint>
+   <codepoint blockname="GeneralPunctuation"
+              cid="COTSEN2 collection-level element &#34;p&#34;"
+              codepoint="8217">’</codepoint>
+   <codepoint blockname="GeneralPunctuation"
+              cid="COTSEN2 collection-level element &#34;p&#34;"
+              codepoint="8211">–</codepoint>
+   <codepoint blockname="GeneralPunctuation"
+              cid="COTSEN2 collection-level element &#34;p&#34;"
+              codepoint="8216">‘</codepoint>
+   <codepoint blockname="Specials" cid="COTSEN5_c26" codepoint="65533">�</codepoint>
+</codepoints>
