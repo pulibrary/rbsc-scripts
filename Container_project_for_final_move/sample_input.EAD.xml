@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" audience="external">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601"
+        langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core">
+        <eadid url="http://arks.princeton.edu/ark:/88435/xk81jm75m" countrycode="US"
+            mainagencycode="US-NjP" urn="ark:/88435/xk81jm75m">C1459</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>William E. Fredeman Collection of William Bell Scott, the Scott Family,
+                    and Alice Boyd, <date type="inclusive" normal="1733/1897">1820-1899.</date>:
+                    Finding Aid </titleproper>
+            </titlestmt>
+            <publicationstmt id="rbscAddress">
+                <publisher>Princeton University Library. Department of Rare Books and Special
+                    Collections.</publisher>
+                <address>
+                    <addressline>Manuscripts Division</addressline>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                    <addressline>Phone: (609) 258-3184</addressline>
+                    <addressline>Fax: (609) 258-2324</addressline>
+                    <addressline>rbsc@princeton.edu</addressline>
+                    <addressline>http://www.princeton.edu/~rbsc</addressline>
+                </address>
+                <date normal="2014">2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit <date
+                    normal="2014-04-24">2014-04-24T13:54-0400</date>
+            </creation>
+            <langusage>
+                <language langcode="eng"/>
+            </langusage>
+            <descrules>Finding aid content adheres to that prescribed by <emph render="italic"
+                    >Describing Archives: A Content Standard.</emph>
+            </descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="2014-04-24">2014-04-24T13:55:06.086-04:00</date>
+                <item>Run through PULFA 2.0 normalization routines.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="findingaid">
+        <did>
+            <unitid countrycode="US" repositorycode="US-NjP" type="collection">C1459</unitid>
+            <repository id="mss">
+                <corpname rules="aacr2" source="lcsh">Princeton University. Library. Dept. of Rare
+                    Books and Special Collections</corpname>
+                <subarea>Manuscripts Division</subarea>
+                <address>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                </address>
+            </repository>
+            <unittitle>William E. Fredeman Collection of William Bell Scott, the Scott Family, and
+                Alice Boyd</unittitle>
+            <unitdate normal="1820/1895" type="bulk">1820-1895</unitdate>
+            <unitdate normal="1733/1897" type="inclusive">1733-1897</unitdate>
+            <physdesc>
+                <extent unit="linear feet">4.0 linear feet</extent>
+                <extent unit="boxes">6 boxes</extent>
+            </physdesc>
+            <origination>
+                <persname source="lcnaf" role="cre">Fredeman, William E. (William Evan),
+                    1928-</persname>
+            </origination>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <abstract>Manuscripts and corrected page proofs for poetry and prose writings, drawings
+                and engraved illustrations, personal documents, record books of print sales,
+                correspondence, inscribed books, binding dummies, and family papers of William Bell
+                Scott (1811-1890), a Scottish poet, painter, art critic, and engraver, known for his
+                association with the Pre-Raphaelite circle in London, and also personal and family
+                correspondence of Alice Boyd, Scott's long-term companion, from 1859 until his
+                death. The collection consists of materials acquired by the eminent Pre-Raphaelite
+                scholar, William E. Fredeman (1928-1999) from members of the Boyd family, which were
+                once housed at Penkill Castle, the residence of Alice Boyd, where Scott spent much
+                of his later life.</abstract>
+            <physloc type="code">mss</physloc>
+        </did>
+        <bioghist>
+            <p>William E. Fredeman was a prominent professor, scholar, and collector of Victorian
+                literature and Pre-Raphaelitism. Born in 1928 in Pine Bluff, Arkansas, Fredeman
+                pursued his BA at Hendrix College. After receiving his PhD in English at the
+                University of Oklahoma in 1956, he joined the faculty at the University of British
+                Columbia in Vancouver, Canada, where he taught until 1991. Best known for his book
+                    <emph render="italic">Pre-Raphaelitism, A Bibliocritical Study</emph> (Harvard
+                University Press, 1965), Fredeman also wrote a major two-volume study of Dante
+                Gabriel Rossetti's letters, and contributed to many major projects, including four
+                volumes of the <emph render="italic">Dictionary of Literary Biography</emph>, <emph
+                    render="italic">The Pre-Raphaelite Brotherhood Journal</emph>, the collected
+                letters of William Bell Scott, and numerous articles and books on Dante Gabriel
+                Rossetti, William Morris, Alfred Tennyson, and the Victorians. From the 1950s
+                through the 1990s, he was also a well-known and avid collector of books, artwork,
+                and manuscripts related to the Pre-Raphaelites and their circle, and his vast
+                collection drew many scholars and researchers in the field. He died in 1999.</p>
+        </bioghist>
+        <descgrp id="dacs3">
+            <scopecontent>
+                <p>The collection includes personal and family papers of William Bell Scott
+                    (1811-1890), a Scottish poet, painter, art critic, and occasional engraver,
+                    known for his association with the Pre-Raphaelite Brotherhood in London, founded
+                    by Dante Gabriel Rossetti, William Holman Hunt, and John Everett Millais. Also
+                    present are personal and family correspondence and an estate document of Scott's
+                    life partner and mistress, Alice Boyd (1824-1897). William Bell Scott met Alice
+                    Boyd, also a painter, in London in 1859. They began a relationship that lasted
+                    for the rest of Scott's life. Beginning in the 1860s, Scott and his wife Letitia
+                    lived with Boyd in the summer and fall, while the three resided together at
+                    Scott's house in London during the other half of the year. Penkill Castle, the
+                    family estate in Ayrshire, Scotland, which Alice Boyd owned, served as an
+                    occasional refuge for many artists and writers associated with the
+                    Pre-Raphaelite circle, including the Rossetti family, William Morris, and W. J.
+                    Linton. Scott completed many books and paintings while in residence, and died at
+                    the castle in 1890, leaving many of his papers.</p>
+                <p>Scott's materials include manuscripts, drafts, and corrected page proofs for
+                    poetry and prose writings, drawings and sketches, engraving proofs,
+                    correspondence, record books of print sales, inscribed books, binding dummies,
+                    and personal documents, such as an address book and passport. Also included are
+                    many important official documents, autograph letters and ancillary holograph
+                    material regarding the Scott family, including William Bell Scott's brother, the
+                    painter David Scott (1806-1849), their father, the engraver Robert Scott
+                    (1777-1841), grandfather Robert Scott, and great-grandfather George Scott. Alice
+                    Boyd's papers include personal and family correspondence, as well as an estate
+                    document regarding her grandfather, William Losh, and an unsigned manuscript
+                    chronicling the history of Alice Boyd and the Pre-Raphaelites at Penkill Castle.
+                    A small group of related materials, with holograph poems by others and
+                    clippings, is also included.</p>
+                <p>The following standard abbreviations, or their variations, are used to identify
+                    materials in this collection: ALS = autograph letter signed, AL = autograph
+                    letter, TLS = typed letter signed.</p>
+            </scopecontent>
+        </descgrp>
+        <descgrp id="dacs4">
+            <accessrestrict type="open">
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+            <userestrict>
+                <p>Single photocopies may be made for research purposes. No further photoduplication
+                    of copies of material in the collection can be made when Princeton University
+                    Library does not own the original. Permission to publish material from the
+                    collection must be requested from the Associate University Librarian for Rare
+                    Books and Special Collections. The library has no information on the status of
+                    literary rights in the collection and researchers are responsible for
+                    determining any questions of copyright.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp id="dacs5">
+            <custodhist>
+                <p>This collection was a part of William E. Fredeman's large collection of books,
+                    artwork, and manuscripts related to the Pre-Raphaelites and their circle, which
+                    he developed from the 1950s through the 1990s. Fredeman acquired these papers,
+                    which were once housed at Penkill Castle, from descendants of the Alice Boyd
+                    family.</p>
+            </custodhist>
+            <acqinfo>
+                <p>Purchase, <date normal="2013" type="acquisition">2013</date> and <date normal="2014" type="acquisition">2014</date>.</p>
+            </acqinfo>
+            <appraisal>
+                <p>All materials were retained with the collection, with the exception of a large
+                    metal strong box that originally housed the Scott family papers.</p>
+            </appraisal>
+        </descgrp>
+        <descgrp id="dacs7">
+            <prefercite>
+                <p>Identification of specific item; Date (if known); William E. Fredeman Collection
+                    of William Bell Scott, Box and Folder Number; Department of Rare Books and
+                    Special Collections, Princeton University Library.</p>
+            </prefercite>
+            <processinfo id="processing">
+                <p>This collection was processed by <name>Kelly Bolding</name> in <date
+                        normal="2014" type="processed">April, 2014</date>. Finding aid written by
+                        <name>Kelly Bolding</name> in <date normal="2014" type="processed">April,
+                        2014</date>.</p>
+            </processinfo>
+        </descgrp>
+        <dao xlink:title="Princeton University Manuscripts Division"
+            xlink:href="bioghist-images/msslogo.jpg" xlink:type="simple"/>
+        <controlaccess>
+            <persname rules="dacs" source="lcnaf">Boyd family.</persname>
+            <persname rules="dacs" source="lcnaf">Boyd, Alice, 1824-1897 --
+                Correspondence.</persname>
+            <persname rules="dacs" source="lcnaf">Scott family.</persname>
+            <persname rules="dacs" source="lcnaf">Scott, David, 1806-1849 --
+                Correspondence.</persname>
+            <persname source="lcnaf">Scott, William Bell, 1811-1890.</persname>
+            <corpname source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n79055680"
+                >Pre-Raphaelite Brotherhood.</corpname>
+            <subject source="lcsh"
+                authfilenumber="http://id.loc.gov/authorities/subjects/sh2001004126">Art, British --
+                19th century.</subject>
+            <subject source="lcsh">Art and design -- Great Britain -- 19th century.</subject>
+            <subject source="lcsh">Painters -- Scotland -- 19th century -- Drawings.</subject>
+            <subject source="lcsh"
+                authfilenumber="http://id.loc.gov/authorities/subjects/sh85096800">Painting,
+                Scottish -- 19th century.</subject>
+            <subject source="lcsh">Poets, Scottish -- 19th century -- Manuscripts.</subject>
+            <subject source="lcsh"
+                authfilenumber="http://id.loc.gov/authorities/subjects/sh85106392"
+                >Pre-Raphaelitism.</subject>
+            <subject source="lcsh"
+                authfilenumber="http://id.loc.gov/authorities/subjects/sh2008000854">Scottish poetry
+                -- 19th century.</subject>
+            <genreform source="aat">Correspondence -- 19th century.</genreform>
+            <genreform source="aat">Documents -- 19th century.</genreform>
+            <genreform source="aat">Drawings -- 19th century.</genreform>
+            <genreform source="aat">Manuscripts -- 19th century.</genreform>
+            <genreform source="aat">Poems -- 19th century.</genreform>
+            <subject source="local" encodinganalog="690" rules="local" authfilenumber="t14">Art
+                history</subject>
+            <subject source="local" encodinganalog="690" rules="local" authfilenumber="t16">British
+                literature</subject>
+        </controlaccess>
+        <dsc type="combined">
+            <c level="series" id="C1459_c1">
+                <did>
+                    <unittitle>Series 1: William Bell Scott Family Papers</unittitle>
+                    <unitdate normal="1830/1890" type="bulk">1830-1890</unitdate>
+                    <unitdate normal="1733/1893" type="inclusive">1733-1893</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="boxes">5 boxes</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>This series is arranged into five file groups.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>This series includes writings, artwork, personal correspondence, and
+                        documents of William Bell Scott, as well as family papers following his
+                        paternal family line through four generations. Scott, a close friend and
+                        associate of Dante Gabriel Rossetti and other central Pre-Raphaelites, was
+                        active in several fields, generating written work as a poet, art critic, and
+                        memoirist, and visual work as an engraver, painter, and teacher of the
+                        ornamental arts. The variety of materials present in this series reflects
+                        the diversity of Scott's artistic practice. These materials include
+                        manuscripts, drafts, corrected page proofs, notes, sketches, print proofs of
+                        engraved illustrations, print sales records, binding dummies, errata slips,
+                        and bound printed volumes for many of William Bell Scott's major works in
+                        poetry, prose, and art, as well as for projects to which he contributed
+                        writing or illustrations. Also included are assorted early drafts of
+                        individual poems and essays, along with various informal notes, stencils,
+                        and drawings. His correspondence relates to publishing projects and
+                        events.</p>
+                    <p>Family papers consist of correspondence, estate papers, writings, drawings,
+                        and official documents regarding feudal property rights, marriage, and
+                        guildry for the Scott family, including William Bell Scott's brother David
+                        Scott (1806-1849), a known historical painter; his father, the engraver
+                        Robert Scott (1777-1841); his grandfather, also named Robert Scott; and
+                        great-grandfather, George Scott. William Bell Scott's descriptions of most
+                        of the earlier family documents present in this series can be found in his
+                        discussion of the Scott family ancestry in pages 9-17 of <emph
+                            render="italic">Memoir of David Scott, R.S.A.; Containing his Journal in
+                            Italy, Notes on Art and Other Papers</emph> (Edinburgh, A. &amp; C.
+                        Black, 1850).</p>
+                </scopecontent>
+                <c level="file" id="C1459_c2">
+                    <did>
+                        <unittitle>Scott, William Bell</unittitle>
+                        <unitdate type="inclusive" normal="1830/1893">1830-1893</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="boxes">5 boxes (1 partial)</extent>
+                        </physdesc>
+                    </did>
+                    <arrangement>
+                        <p>This file group is arranged into three subsequent file groups.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>This file group contains manuscripts, drafts of poems and prose works,
+                            corrected page proofs, record books, binding dummies, bound volumes,
+                            sketches and engraved illustrations, correspondence, and personal
+                            documents of William Bell Scott, pertaining to his activities as a
+                            painter, poet, and art critic, as well as to his personal life.</p>
+                    </scopecontent>
+                    <c level="file" id="C1459_c3">
+                        <did>
+                            <unittitle>Works</unittitle>
+                            <unitdate normal="1830/1893" type="inclusive">1830-1893</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="boxes">3 boxes</extent>
+                            </physdesc>
+                        </did>
+                        <arrangement>
+                            <p>Materials are arranged alphabetically by title, with unidentified
+                                notes and sketches at the end.</p>
+                        </arrangement>
+                        <scopecontent>
+                            <p>A significant group of manuscript materials exist relating to Scott's
+                                final volume of poetry, <emph render="italic">A Poet's Harvest
+                                    Home</emph>, first published by Elliot Stock in 1882, and again
+                                years later with an "aftermath" of additional poems, published by
+                                Elkin Mathews and John Lane in 1893. Of note is a complete bound
+                                manuscript, which William Bell Scott copied out by hand, day by day,
+                                for several months in 1881 as a gift for Alice Boyd. The manuscript,
+                                which contains various corrections, additions, and deletions, also
+                                served as a mock-up for the printed volume. Also present are many
+                                drafts of individual poems that appeared in <emph render="italic">A
+                                    Poet's Harvest Home</emph>, including a group of poems William
+                                Bell Scott wrote during a flurry of activity in the late 1870s and
+                                early 1880s during his time at Penkill Castle.</p>
+                            <p>Materials related to other published works, including drafts, page
+                                proofs, and print proofs of engraved frontispieces for the 1854 and
+                                1875 editions of <emph render="italic">Poems</emph> are also
+                                present, along with notes for chapters of his autobiography, binding
+                                dummies and title-page mock-ups for books to which he provided
+                                engraved illustrations, notes regarding his contributions to
+                                encyclopedias, and manuscripts of essays and letters published in
+                                various journals. Several bound volumes are additionally included,
+                                some containing original prints of Scott's engraved work, as well as
+                                a few association copies of his books inscribed to friends. Also of
+                                note are several of Scott's sketches for a proposed addition to
+                                Penkill Castle in the 1870s and 1880s, following the completion of
+                                his murals on the castle's staircase.</p>
+                            <p>In addition to his individual pursuit of poetry, painting, and
+                                engraving, Scott served as the master of the Government School of
+                                Design at Newcastle-on-Tyne for over twenty years. Accordingly,
+                                these files also contain assorted ornamental drawings and sketches,
+                                woodcut illustrations, and decorative stencils related to Scott's
+                                study of design and ornamental arts.</p>
+                        </scopecontent>
+                        <c level="file" id="C1459_c4">
+                            <did>
+                                <unittitle altrender="Poet's Harvest Home">
+                                    <emph render="italic">A Poet's Harvest Home</emph>
+                                </unittitle>
+                                <unitdate normal="1878/1893" type="inclusive">circa
+                                    1878-1893</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">7 folders</extent>
+                                </physdesc>
+                            </did>
+                            <c level="item" id="C1459_c5">
+                                <did>
+                                    <unittitle
+                                        altrender="Poet's Harvest Home, Complete Bound Manuscript, Inscribed to Alice Boyd">
+                                        <emph render="italic">A Poet's Harvest Home</emph>, Complete
+                                        Bound Manuscript, Inscribed to Alice Boyd</unittitle>
+                                    <container id="cid264918007" type="box">1-3</container>
+                                    <unitdate type="inclusive" normal="1881-08/1881-09">1881
+                                        August-September</unitdate>
+                                    <physdesc>
+                                        <physfacet>Bound manuscript</physfacet>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Inscribed to Alice Boyd of Penkill Castle, in commemoration
+                                        of the publication of <emph render="italic">A Poet's Harvest
+                                            Home</emph> on April 15, 1882. William Bell Scott wrote
+                                        out the poems by hand in August and September of 1881 at
+                                        Penkill Castle. While some poems contain crossed out lines,
+                                        annotations, and edits, the layout of this manuscript,
+                                        including placed proofs of woodcut illustrations, is a very
+                                        close mock-up of the published version. Bound in green
+                                        morocco by Roger de Coverley.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="file" id="C1459_c6">
+                                <did>
+                                    <unittitle>Early Drafts and Finished Poems Published in <emph
+                                            render="italic">A Poet's Harvest Home</emph> and Various
+                                        Journals</unittitle>
+                                    <container id="cid264918006" type="box">4a-6</container>
+                                    <unitdate normal="1878/1884" type="inclusive">circa
+                                        1878-1884</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>These poems, originally housed together, were produced in
+                                        1878-1884, during a period of intense writing at Penkill
+                                        Castle, following the publication of <emph render="italic"
+                                            >Poems</emph> in 1875. Most were later published in
+                                            <emph render="italic">A Poet's Harvest Home</emph>.
+                                        Titles of individual poems include: "1881," "A Dieu,"
+                                        "Continuity of Life," "Despondency," "Destiny," "Ego,"
+                                        "Infancy," "Love and Death," "The Madonna di San Sisto,"
+                                        "Morality," "My Rhyme of Love," "Of Love, III. One Day," "Of
+                                        Love, IV. Another Day," "Of Poets, IV. Dante and Beatrice,"
+                                        "St. Dominic," "The Twenty Fifth Anniversary," and an
+                                        untitled poem beginning, "A. B. and C. are well known
+                                        men..."</p>
+                                </scopecontent>
+                            </c>
+                            <c level="file" id="C1459_c7">
+                                <did>
+                                    <unittitle>"Burns: His Cottage and Monument," Drafts of Two
+                                        Different Versions</unittitle>
+                                    <container id="cid264918005" type="box">1</container>
+                                    <container parent="cid264918005" type="folder">3</container>
+                                    <unitdate>undated</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>The second version of this poem was used in <emph
+                                            render="italic">A Poet's Harvest Home</emph>.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item" id="C1459_c8">
+                                <did>
+                                    <unittitle>"Iona to Erin", Early Version of "St. Columba," Draft
+                                        of Poem</unittitle>
+                                    <container id="cid264918004" type="box">1</container>
+                                    <container parent="cid264918004" type="folder">4</container>
+                                    <unitdate>undated</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c9">
+                                <did>
+                                    <unittitle
+                                        altrender="Norns, Draft of Poem, Published as The Norns Watering Ygghrasill"
+                                        >"The Norns," Draft of Poem, Published as "The Norns
+                                        Watering Ygghrasill"</unittitle>
+                                    <container id="cid264918003" type="box">1</container>
+                                    <container parent="cid264918003" type="folder">5</container>
+                                    <unitdate>undated</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c10">
+                                <did>
+                                    <unittitle>"Ode To The Sickle", Draft of Part IV</unittitle>
+                                    <container id="cid264918002" type="box">1</container>
+                                    <container parent="cid264918002" type="folder">6</container>
+                                    <unitdate>undated</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c11">
+                                <did>
+                                    <unittitle>"Ode To The Sickle", Page Proof</unittitle>
+                                    <container id="cid264918001" type="box">1</container>
+                                    <container parent="cid264918001" type="folder">7</container>
+                                    <unitdate normal="1893/1893">1893</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="item" id="C1459_c12">
+                            <did>
+                                <unittitle>
+                                    <emph render="italic"> Albert Dürer: His Life and Works</emph>,
+                                    Binding Dummy</unittitle>
+                                <container id="cid264918009" type="box">1</container>
+                                <container parent="cid264918009" type="folder">8</container>
+                                <unitdate normal="1868/1868">1868</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>[Albrecht Dürer]. Includes three notes by William Bell Scott
+                                    tipped into the front cover.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c13">
+                            <did>
+                                <unittitle
+                                    altrender="Artist of the Hypnerotomachia Poliphili, 1499, Draft of Essay"
+                                    >"The Artist of the Hypnerotomachia Poliphili, 1499," Draft of
+                                    Essay</unittitle>
+                                <container id="cid264918010" type="box">1</container>
+                                <container parent="cid264918010" type="folder">9</container>
+                                <unitdate normal="1880-03-27">1880 March 27</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Published in the <emph render="italic">Athenaeum</emph>, no.
+                                    2735, pages 415-416.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c14">
+                            <did>
+                                <unittitle>Autobiographical Notes of the Life of William Bell
+                                    Scott</unittitle>
+                                <unitdate normal="1879/1892" type="inclusive">1879-1892</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">3 folders</extent>
+                                </physdesc>
+                            </did>
+                            <c level="item" id="C1459_c15">
+                                <did>
+                                    <unittitle>Autobiography Fragment with Four Drawings</unittitle>
+                                    <container id="cid264918014" type="box">1</container>
+                                    <container parent="cid264918014" type="folder">10</container>
+                                    <unitdate normal="1880/1880">circa 1880</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Related to Chapter XIX of Scott's Autobiography, "Penkill and
+                                        Miss Boyd, 1880."</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item" id="C1459_c16">
+                                <did>
+                                    <unittitle>Notes Concerning Stephanus Caesenas
+                                        Peregrini</unittitle>
+                                    <container id="cid264918013" type="box">1</container>
+                                    <container parent="cid264918013" type="folder">11</container>
+                                    <unitdate normal="1879/1880" type="inclusive">circa
+                                        1879-1880</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Related to Chapter XVIII of Scott's Autobiography, "Artistic
+                                        Inquiries, 1879-1880."</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item" id="C1459_c17">
+                                <did>
+                                    <unittitle>
+                                        <emph render="italic">Autobiographical Notes of the Life of
+                                            William Bell Scott</emph> (Volume II), Binding
+                                        Dummy</unittitle>
+                                    <container id="cid264918012" type="box">1</container>
+                                    <container parent="cid264918012" type="folder">12</container>
+                                    <unitdate normal="1892/1892">1892</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="item" id="C1459_c18">
+                            <did>
+                                <unittitle>
+                                    <emph render="italic">Chorea Sancti Viti, or, Steps in the
+                                        Journey of Prince Legion: Twelve Designs</emph>
+                                </unittitle>
+                                <container id="cid264914008" type="box">5</container>
+                                <unitdate normal="1851/1851">1851</unitdate>
+                                <physdesc>
+                                    <physfacet>Bound volume</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Contains engraved illustrations by William Bell Scott.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c19">
+                            <did>
+                                <unittitle>"Christmas," Unfinished Draft of Poem</unittitle>
+                                <container id="cid264918011" type="box">1</container>
+                                <container parent="cid264918011" type="folder">13</container>
+                                <unitdate normal="1830/1830">1830</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c20">
+                            <did>
+                                <unittitle>
+                                    <emph render="italic">Encyclopaedia Britannica</emph>, Vol XII
+                                    Part 1 (HYD-IYR), Seventh Edition, Binding Dummy</unittitle>
+                                <container id="cid264918008" type="box">1</container>
+                                <container parent="cid264918008" type="folder">14</container>
+                                <unitdate normal="1842/1853" type="inclusive">circa
+                                    1842-1853</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Gilt seal on cover was designed by William Bell Scott.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c21">
+                            <did>
+                                <unittitle>"If thou wouldst know the worthy man..." Untitled Draft
+                                    of Elegy for Albert Dürer</unittitle>
+                                <container id="cid264918020" type="box">1</container>
+                                <container parent="cid264918020" type="folder">15</container>
+                                <unitdate normal="1869/1869">circa 1869</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>[Albrecht Dürer]. Note says, "Printed at Nuremberg by Wolff
+                                    Drechsel."</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c22">
+                            <did>
+                                <unittitle
+                                    altrender="Illustrated Family Bible, Title-Page Proof Engraved by William Bell Scott">
+                                    <emph render="italic">The Illustrated Family Bible</emph>,
+                                    Title-Page Proof Engraved by William Bell Scott</unittitle>
+                                <container id="cid264918016" type="box">1</container>
+                                <container parent="cid264918016" type="folder">16</container>
+                                <unitdate normal="1876/1876" type="inclusive">circa 1876</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c23">
+                            <did>
+                                <unittitle>"Jacopo de' Barbarj (Jacob Walsh)", Letter to Editor of
+                                        <emph render="italic">Gazette de Beaux Arts</emph>
+                                </unittitle>
+                                <container id="cid264918018" type="box">1</container>
+                                <container parent="cid264918018" type="folder">17</container>
+                                <unitdate normal="1876-08-14">1876 August 14</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Regarding the "Master of the Caduceus".</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c24">
+                            <did>
+                                <unittitle altrender="King's Quair at Penkill Castle">"The King's
+                                    Quair" at Penkill Castle</unittitle>
+                                <unitdate normal="1872/1887" type="inclusive">1872-1887</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="boxes">portions of 2
+                                        boxes</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>"The King's Quair" refers to a group of large historical murals
+                                    that William Bell Scott painted on the spiral staircase at
+                                    Penkill Castle over several years, illustrating a poem
+                                    attributed to King James I of Scotland. In 1887, Scott published
+                                        <emph render="italic">Illustrations to the King's Quair of
+                                        King James I. of Scotland</emph>, which featured engravings
+                                    modeled on his earlier paintings.</p>
+                            </scopecontent>
+                            <c level="file" id="C1459_c25">
+                                <did>
+                                    <unittitle>Drawings for Penkill Castle</unittitle>
+                                    <container id="cid264918023" type="box">1</container>
+                                    <container parent="cid264918023" type="folder">18</container>
+                                    <unitdate type="inclusive" normal="1872-10-13/1885-10-16">1872
+                                        October 13-1885 October 16</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Includes Scott's plans for a later "proposed addition" to
+                                        Penkill Castle in the 1870s-1880s.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item" id="C1459_c26">
+                                <did>
+                                    <unittitle>Mock-up Title Page for <emph render="italic">The
+                                            Illustrations to the King's Quair at Penkill Castle,
+                                            Painted and Etched by William Bell Scott</emph>
+                                    </unittitle>
+                                    <container id="cid264918022" type="box">1</container>
+                                    <container parent="cid264918022" type="folder">19</container>
+                                    <unitdate normal="1887/1887">circa 1887</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c27">
+                                <did>
+                                    <unittitle>
+                                        <emph render="italic">Illustrations to the King's Quair of
+                                            King James I. of Scotland Painted on the Staircase of
+                                            Penkill Castle, Ayrshire</emph>
+                                    </unittitle>
+                                    <container id="cid264914007" type="box">5</container>
+                                    <unitdate normal="1887/1887">1887</unitdate>
+                                    <physdesc>
+                                        <physfacet>Bound volume</physfacet>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Printed book with engraved India ink illustrations, etched in
+                                        1885 from paintings made in June, 1856 through August,
+                                        1868.</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="item" id="C1459_c28">
+                            <did>
+                                <unittitle>"Lead, Kindly Light," Brief Essay Regarding the Hymn by
+                                    John Henry Newman</unittitle>
+                                <container id="cid264918019" type="box">1</container>
+                                <container parent="cid264918019" type="folder">20</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c29">
+                            <did>
+                                <unittitle>"On Viol and Flute," by Edmund Gosse, Proof Title-Page of
+                                    Woodcut Illustration Vignette by William Bell Scott</unittitle>
+                                <container id="cid264918015" type="box">1</container>
+                                <container parent="cid264918015" type="folder">21</container>
+                                <unitdate normal="1873/1873">1873</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c30">
+                            <did>
+                                <unittitle
+                                    altrender="Ornamentist, or, Artisan's Manual of the Various Branches of Ornamental Art">
+                                    <emph render="italic">The Ornamentist, or, Artisan's Manual of
+                                        the Various Branches of Ornamental Art</emph>
+                                </unittitle>
+                                <container id="cid264914006" type="box">5</container>
+                                <unitdate normal="1845/1845">1845</unitdate>
+                                <physdesc>
+                                    <physfacet>Bound volume</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Includes an introductory essay on ornamental art by William Bell
+                                    Scott.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c31">
+                            <did>
+                                <unittitle>"Peculiar Portion of Art in Spain" and "Spanish Painting
+                                    in the Sixteenth Century" Manuscript</unittitle>
+                                <container id="cid264918017" type="box">1</container>
+                                <container parent="cid264918017" type="folder">22</container>
+                                <unitdate normal="1880/1889" type="inclusive">circa 1880s</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Consists of a preface and two chapters on Spanish art.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c32">
+                            <did>
+                                <unittitle>Poems (1854, Smith, Elder, &amp; Co.)</unittitle>
+                                <unitdate normal="1854/1875" type="inclusive">circa
+                                    1854-1875</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="boxes">portions of 2
+                                        boxes</extent>
+                                </physdesc>
+                            </did>
+                            <c level="file" id="C1459_c33">
+                                <did>
+                                    <unittitle>Proof Engravings for Frontispiece</unittitle>
+                                    <container id="cid264918021" type="box">1</container>
+                                    <container parent="cid264918021" type="folder">23</container>
+                                    <unitdate normal="1854/1854">1854</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file" id="C1459_c34">
+                                <did>
+                                    <unittitle>Page Proofs with Edits in Pen</unittitle>
+                                    <container id="cid264918029" type="box">2</container>
+                                    <container parent="cid264918029" type="folder">1</container>
+                                    <unitdate type="inclusive" normal="1854/1875">circa
+                                        1854-1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Possibly used to make edits for later version of <emph
+                                            render="italic">Poems</emph>, published in 1875.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item" id="C1459_c35">
+                                <did>
+                                    <unittitle>"Maryanne" ["Rosabell"], Page Proof</unittitle>
+                                    <container id="cid264918028" type="box">2</container>
+                                    <container parent="cid264918028" type="folder">2</container>
+                                    <unitdate normal="1854/1854">1854</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file" id="C1459_c36">
+                            <did>
+                                <unittitle>Poems (1875, Longmans, Green &amp; Co.)</unittitle>
+                                <unitdate normal="1838/1875" type="inclusive">circa
+                                    1838-1875</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="boxes">portions of 2
+                                        boxes</extent>
+                                </physdesc>
+                            </did>
+                            <c level="file" id="C1459_c37">
+                                <did>
+                                    <unittitle>Contents and Illustrations Page Proofs</unittitle>
+                                    <container id="cid264918027" type="box">2</container>
+                                    <container parent="cid264918027" type="folder">3</container>
+                                    <unitdate normal="1875/1875">1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file" id="C1459_c38">
+                                <did>
+                                    <unittitle>Page Proofs for First 80 Pages</unittitle>
+                                    <container id="cid264918025" type="box">2</container>
+                                    <container parent="cid264918025" type="folder">4</container>
+                                    <unitdate normal="1874-12-15">1874 December 15</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c39">
+                                <did>
+                                    <unittitle altrender="Dance of Death, Page Proof">"The Dance of
+                                        Death", Page Proof</unittitle>
+                                    <container id="cid264918024" type="box">2</container>
+                                    <container parent="cid264918024" type="folder">5</container>
+                                    <unitdate normal="1875/1875">1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c40">
+                                <did>
+                                    <unittitle>"Hades; or, The Transit," Retitled "The Music of the
+                                        Spheres", Page Proof</unittitle>
+                                    <container id="cid264918026" type="box">2</container>
+                                    <container parent="cid264918026" type="folder">6</container>
+                                    <unitdate normal="1838/1875" type="inclusive">circa
+                                        1838-1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c41">
+                                <did>
+                                    <unittitle>"Lines," Corrected Page Proof</unittitle>
+                                    <container id="cid264918036" type="box">2</container>
+                                    <container parent="cid264918036" type="folder">7</container>
+                                    <unitdate type="inclusive" normal="1842/1875"
+                                        >1842-1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c42">
+                                <did>
+                                    <unittitle>"Maryanne," Corrected Page Proof</unittitle>
+                                    <container id="cid264918037" type="box">2</container>
+                                    <container parent="cid264918037" type="folder">8</container>
+                                    <unitdate normal="1854/1875" type="inclusive">circa
+                                        1854-1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c43">
+                                <did>
+                                    <unittitle>"To the Sphinx," Draft Fragments of Some
+                                        Verses</unittitle>
+                                    <container id="cid264918035" type="box">2</container>
+                                    <container parent="cid264918035" type="folder">9</container>
+                                    <unitdate normal="1854/1875" type="inclusive">circa
+                                        1854-1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="item" id="C1459_c44">
+                                <did>
+                                    <unittitle>"To the Sphinx," Page Proof</unittitle>
+                                    <container id="cid264918034" type="box">2</container>
+                                    <container parent="cid264918034" type="folder">10</container>
+                                    <unitdate normal="1875/1875">1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file" id="C1459_c45">
+                                <did>
+                                    <unittitle>Errata Slips</unittitle>
+                                    <container id="cid264918033" type="box">2</container>
+                                    <container parent="cid264918033" type="folder">11</container>
+                                    <unitdate normal="1875/1875">1875</unitdate>
+                                    <physdesc>
+                                        <extent type="computed" unit="folders">1 folder</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>34 copies.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item" id="C1459_c46">
+                                <did>
+                                    <unittitle>Association Copy of <emph render="italic"
+                                            >Poems</emph>
+                                    </unittitle>
+                                    <container id="cid264914005" type="box">5</container>
+                                    <unitdate normal="1875-04-30">1875 April 30</unitdate>
+                                    <physdesc>
+                                        <physfacet>Bound volume</physfacet>
+                                        <extent type="computed" unit="items">1 item</extent>
+                                    </physdesc>
+                                </did>
+                                <scopecontent>
+                                    <p>Inscribed to the author's wife, Letitia Scott.</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="item" id="C1459_c47">
+                            <did>
+                                <unittitle>"Popular Tuscan Songs," Draft of Poem</unittitle>
+                                <container id="cid264918032" type="box">2</container>
+                                <container parent="cid264918032" type="folder">12</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c48">
+                            <did>
+                                <unittitle
+                                    altrender="Portrait of Shakespeare, Draft of Scholarly Essay"
+                                    >"The Portrait of Shakespeare," Draft of Scholarly
+                                    Essay</unittitle>
+                                <container id="cid264918030" type="box">2</container>
+                                <container parent="cid264918030" type="folder">13</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c49">
+                            <did>
+                                <unittitle
+                                    altrender="Prodigal, The Fortnightly, New Series, vol. 5 (1869) pages 146-155, Corrected Page Proof"
+                                    >"The Prodigal", <emph render="italic">The Fortnightly</emph>,
+                                    New Series, vol. 5 (1869) pages 146-155, Corrected Page
+                                    Proof</unittitle>
+                                <container id="cid264918031" type="box">2</container>
+                                <container parent="cid264918031" type="folder">14</container>
+                                <unitdate normal="1869/1869">1869</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c50">
+                            <did>
+                                <unittitle>"Reunited," Draft of Unpublished Poem</unittitle>
+                                <container id="cid264918039" type="box">2</container>
+                                <container parent="cid264918039" type="folder">15</container>
+                                <unitdate normal="1887-07-12">1887 July 12</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c51">
+                            <did>
+                                <unittitle>
+                                    <emph render="italic">Views of Loch Katrine and Adjacent
+                                        Scenery</emph>
+                                </unittitle>
+                                <container id="cid264914004" type="box">5</container>
+                                <unitdate normal="1830-09-01">1830 September 1</unitdate>
+                                <physdesc>
+                                    <physfacet>Bound volume</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Privately printed author copy of book by William Bell Scott with
+                                    plates engraved by his father, Robert Scott. Includes William
+                                    Bell Scott's bookplate.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c52">
+                            <did>
+                                <unittitle>"What time the gold-haired victor sent due west..." Draft
+                                    of Untitled Poem</unittitle>
+                                <container id="cid264918038" type="box">2</container>
+                                <container parent="cid264918038" type="folder">16</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c53">
+                            <did>
+                                <unittitle>
+                                    <emph render="italic">William Blake: Etchings from his
+                                        Works</emph>
+                                </unittitle>
+                                <container id="cid264914003" type="box">5</container>
+                                <unitdate type="inclusive" normal="1877-11/1878">1877
+                                    November-1878</unitdate>
+                                <physdesc>
+                                    <physfacet>Bound volume</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Presentation copy inscribed to Alice Boyd. Includes William Bell
+                                    Scott's illustrations to William Blake's writings. Several of
+                                    Scott's tracings from sketches by William Blake are also tipped
+                                    into the volume's rear cover.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c54">
+                            <did>
+                                <unittitle
+                                    altrender="Year of the World; a Philosophical Poem on Redemption from the Fall">
+                                    <emph render="italic">The Year of the World; a Philosophical
+                                        Poem on "Redemption from the Fall"</emph>
+                                </unittitle>
+                                <container id="cid264915047" type="box">5</container>
+                                <unitdate normal="1846/1879-10-29" type="inclusive">1846-1879
+                                    October 29</unitdate>
+                                <physdesc>
+                                    <physfacet>Bound volumes</physfacet>
+                                    <extent type="computed" unit="boxes">portion of 1 box</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Two copies of the 1846 volume are present. One is an association
+                                    copy inscribed to Lucy Madox Brown. The other is a presentation
+                                    copy inscribed to Lady Wilde with a letter tipped into the front
+                                    cover, dated October 29, 1879, requesting her corrections.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c55">
+                            <did>
+                                <unittitle>Decorative Stencils for Pouncing</unittitle>
+                                <container id="cid264918079" type="box">2</container>
+                                <container parent="cid264918079" type="folder">17</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file" id="C1459_c56">
+                            <did>
+                                <unittitle>Engraved Seals and Insignia Printed on Thin
+                                    Paper</unittitle>
+                                <container id="cid264918076" type="box">2</container>
+                                <container parent="cid264918076" type="folder">18</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file" id="C1459_c57">
+                            <did>
+                                <unittitle>Ornamental Drawings and Sketches</unittitle>
+                                <container id="cid264918080" type="box">2</container>
+                                <container parent="cid264918080" type="folder">19</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Drawings include an assortment of 19 cartoon sketches, floral
+                                    motifs, decorative designs, figures, and borders.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c58">
+                            <did>
+                                <unittitle>Printed Woodcut Illustrations of Tree Branches and a
+                                    Basket</unittitle>
+                                <container id="cid264918077" type="box">2</container>
+                                <container parent="cid264918077" type="folder">20</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>5 pieces.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c59">
+                            <did>
+                                <unittitle>Unidentified Play Fragment</unittitle>
+                                <container id="cid264918081" type="box">2</container>
+                                <container parent="cid264918081" type="folder">21</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file" id="C1459_c60">
+                            <did>
+                                <unittitle>Untitled Notes and Lists</unittitle>
+                                <container id="cid264918082" type="box">2</container>
+                                <container parent="cid264918082" type="folder">22</container>
+                                <unitdate normal="1879-01/1880" type="inclusive">1879
+                                    January-1880</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Includes a page of notes regarding Jean-Antoine Watteau,
+                                    symmetry, ornamental art, and painting; a list of names
+                                    beginning with C-D, for which Scott wrote entries for a new
+                                    edition of the Edwards Encyclopedia; and a page of notes,
+                                    reading "fresh flowers, little fishes, row of trees by the
+                                    riverside" with a list of animals.</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c level="file" id="C1459_c61">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate normal="1879/1887" type="bulk">1879-1887</unitdate>
+                            <unitdate normal="1845/1887" type="inclusive">1845-1887</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">16 folders</extent>
+                            </physdesc>
+                        </did>
+                        <arrangement>
+                            <p>Letters are arranged alphabetically by correspondent.</p>
+                        </arrangement>
+                        <scopecontent>
+                            <p>This file group includes personal correspondence of William Bell
+                                Scott, primarily letters received, regarding books and publishing,
+                                the work of other writers and artists, and invitations to events. A
+                                significant portion of the correspondence, dated 1887, consists of
+                                letters thanking William Bell Scott for gifted copies of <emph
+                                    render="italic">The Illustrations to the King's Quair</emph>, an
+                                edition of engravings Scott published that year based on his
+                                paintings at Penkill Castle.</p>
+                            <p>Of note is a letter from William Morris regarding a work contract
+                                that Scott held with Morris, as well as Morris's impressions of
+                                Stonehenge and his decision to take up tapestry work. Also present
+                                is a detailed letter from William Bell Scott's brother, David Scott,
+                                regarding his views on art. Several postcards from William Bell
+                                Scott, along with a watercolor valentine addressed to Alice Boyd,
+                                can be located among her personal correspondence.</p>
+                        </scopecontent>
+                        <c level="item" id="C1459_c62">
+                            <did>
+                                <unittitle>Alexander, Will (<emph render="italic">Daily Free
+                                        Press</emph>, Aberdeen) to William Bell Scott</unittitle>
+                                <container id="cid264915015" type="box">3</container>
+                                <container parent="cid264915015" type="folder">1</container>
+                                <unitdate normal="1887-08-04">1887 August 4</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c63">
+                            <did>
+                                <unittitle>Andrew, Catherine N., to William Bell Scott</unittitle>
+                                <container id="cid264915014" type="box">3</container>
+                                <container parent="cid264915014" type="folder">2</container>
+                                <unitdate normal="1887-07-13">circa 1887 July 13</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c64">
+                            <did>
+                                <unittitle>Arthur, James, to William Bell Scott</unittitle>
+                                <container id="cid264915013" type="box">3</container>
+                                <container parent="cid264915013" type="folder">3</container>
+                                <unitdate normal="1887-07-12">1887 July 12</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c65">
+                            <did>
+                                <unittitle>Blackwoods and Sons, to William Bell Scott</unittitle>
+                                <container id="cid264915012" type="box">3</container>
+                                <container parent="cid264915012" type="folder">4</container>
+                                <unitdate normal="1887-07-26">1887 July 26</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c66">
+                            <did>
+                                <unittitle>Gibb, E.J.W., to William Bell Scott</unittitle>
+                                <container id="cid264915011" type="box">3</container>
+                                <container parent="cid264915011" type="folder">5</container>
+                                <unitdate normal="1887-07-12">1887 July 12</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c67">
+                            <did>
+                                <unittitle>Gordon, Mr. (Aberdeen Art and Industrial Museum), to
+                                    William Bell Scott</unittitle>
+                                <container id="cid264915016" type="box">3</container>
+                                <container parent="cid264915016" type="folder">6</container>
+                                <unitdate normal="1887-07-19">1887 July 19</unitdate>
+                                <physdesc>
+                                    <physfacet>AL</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c68">
+                            <did>
+                                <unittitle>Morris, William, to William Bell Scott</unittitle>
+                                <container id="cid264915010" type="box">3</container>
+                                <container parent="cid264915010" type="folder">7</container>
+                                <unitdate normal="1879-10-13">1879 October 13</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c69">
+                            <did>
+                                <unittitle>Morse, Juliet M., to William Bell Scott</unittitle>
+                                <container id="cid264915009" type="box">3</container>
+                                <container parent="cid264915009" type="folder">8</container>
+                                <unitdate normal="1887-07-13">1887 July 13</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c70">
+                            <did>
+                                <unittitle>Reid, Florence, to William Bell Scott</unittitle>
+                                <container id="cid264915008" type="box">3</container>
+                                <container parent="cid264915008" type="folder">9</container>
+                                <unitdate normal="1887-07-24">circa 1887 July 24</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c71">
+                            <did>
+                                <unittitle>Scott, David, to William Bell Scott</unittitle>
+                                <container id="cid264915007" type="box">3</container>
+                                <container parent="cid264915007" type="folder">10</container>
+                                <unitdate normal="1845-03-02">1845 March 2</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>This lengthy letter contains David Scott's answers to many
+                                    questions on art and philosophy that William Bell Scott had
+                                    posed to him over the years. William Bell Scott published his
+                                    brother's memoirs in 1850, likely using many of these insights
+                                    therein.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c73">
+                            <did>
+                                <unittitle>Wallis, Henry, from William Bell Scott</unittitle>
+                                <container id="cid264915005" type="box">3</container>
+                                <container parent="cid264915005" type="folder">11</container>
+                                <unitdate normal="1887-10-23">1887 October 23</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c74">
+                            <did>
+                                <unittitle>Way, William Cosens, to William Bell Scott</unittitle>
+                                <container id="cid264915004" type="box">3</container>
+                                <container parent="cid264915004" type="folder">12</container>
+                                <unitdate normal="1884-07-26">1884 July 26</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c75">
+                            <did>
+                                <unittitle>Wilde, Lady [Jane] (1821-1896), from William Bell
+                                    Scott</unittitle>
+                                <container id="cid264915003" type="box">3</container>
+                                <container parent="cid264915003" type="folder">13</container>
+                                <unitdate normal="1879-10-29">1879 October 29</unitdate>
+                                <physdesc>
+                                    <physfacet>Photocopy of ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>The original letter can be found tipped into the cover of the
+                                    presentation copy of <emph render="italic">The Year of the
+                                        World</emph> inscribed to Lady Wilde, located in Box 5.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c76">
+                            <did>
+                                <unittitle>Winthrop, Annie, to William Bell Scott</unittitle>
+                                <container id="cid264915002" type="box">3</container>
+                                <container parent="cid264915002" type="folder">14</container>
+                                <unitdate normal="1887-07-25">circa 1887 July 25</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c77">
+                            <did>
+                                <unittitle>Wordie, John, to William Bell Scott</unittitle>
+                                <container id="cid264915001" type="box">3</container>
+                                <container parent="cid264915001" type="folder">15</container>
+                                <unitdate normal="1887-08-04">1887 August 4</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c72">
+                            <did>
+                                <unittitle>Unidentified Person, to William Bell Scott</unittitle>
+                                <container id="cid264915006" type="box">3</container>
+                                <container parent="cid264915006" type="folder">16</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <physfacet>ALS</physfacet>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Signed "U.F.U."</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c level="file" id="C1459_c78">
+                        <did>
+                            <unittitle>Personal Documents</unittitle>
+                            <unitdate type="inclusive" normal="1854/1890">circa 1854-1890</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="boxes">2 boxes (1 partial)</extent>
+                            </physdesc>
+                        </did>
+                        <arrangement>
+                            <p>Items within this file group are arranged alphabetically by
+                                format.</p>
+                        </arrangement>
+                        <scopecontent>
+                            <p>This file group includes personal documents and effects belonging to
+                                William Bell Scott, which remained at Penkill Castle after his
+                                death. Included are Scott's address book listing the names and
+                                addresses of his friends and fellow artists and writers, as well as
+                                notes on his models and travel arrangements, a passport bearing many
+                                stamps from his frequent trips to Italy and France in the 1850s and
+                                early 1860s, calling cards for Scott and Alice Boyd, and an envelope
+                                of Dante Gabriel Rossetti's monogram stamps that Scott kept with his
+                                effects. Also present is a small document box bearing Scott's
+                                monogram, in which he stored many of his most personal documents. Of
+                                note are two record books documenting prints sold by Scott,
+                                including prices, type, and location information for artwork sold
+                                between 1870 and 1884.</p>
+                        </scopecontent>
+                        <c level="item" id="C1459_c79">
+                            <did>
+                                <unittitle>Address Book</unittitle>
+                                <container id="cid264918071" type="box">3</container>
+                                <container parent="cid264918071" type="folder">17</container>
+                                <unitdate normal="1870/1890" type="inclusive">circa
+                                    1870-1890</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Contains over 100 holograph entries with addresses for William
+                                    Bell Scott's friends and acquaintances, including many central
+                                    Pre-Raphaelite artists, writers, and associated figures,
+                                    including William Morris, John Everett Millais, Dante Gabriel
+                                    Rossetti, Christina Rossetti, and William Michael Rossetti. Also
+                                    includes notes about travel accommodations and Scott's
+                                    models.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c80">
+                            <did>
+                                <unittitle>Calling Cards</unittitle>
+                                <container id="cid264918070" type="box">3</container>
+                                <container parent="cid264918070" type="folder">18</container>
+                                <unitdate normal="1870/1890" type="inclusive">circa
+                                    1870-1890</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Includes several copies of William Bell Scott's calling card,
+                                    listing his residence as Belle Vue House at 92 Cheyne Walk in
+                                    London, and one that Scott kept from Alice Boyd at Penkill
+                                    Castle.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c81">
+                            <did>
+                                <unittitle>Passport</unittitle>
+                                <container id="cid264918068" type="box">3</container>
+                                <container parent="cid264918068" type="folder">19</container>
+                                <unitdate type="inclusive" normal="1854/1862">1854-1862</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c82">
+                            <did>
+                                <unittitle>Personal Document Box</unittitle>
+                                <container id="cid264914009" type="box">6</container>
+                                <unitdate normal="1860/1890" type="inclusive">circa
+                                    1860s-1890</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>This cedar and metal document box with "WBS" inscribed on lid,
+                                    contained many of William Bell Scott's most personal documents,
+                                    including his passport, address books, and other items. Included
+                                    inside is a key for Scott's large metal strong box, which
+                                    contained various personal and family papers.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file" id="C1459_c153">
+                            <did>
+                                <unittitle>Prints Sold Record Books</unittitle>
+                                <container type="box">3</container>
+                                <container type="folder">52</container>
+                                <unitdate type="inclusive" normal="1870/1884">1870-1884</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="folders">1 folder</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>Two booklets of records of prints sold by William Bell Scott,
+                                    including one containing information on prints sold from 1870 to
+                                    1878 and the sale of Scott's private collection to Ellis in 1882
+                                    and one documenting the sale of prints in 1884.</p>
+                            </scopecontent>
+                        </c>
+                        <c level="item" id="C1459_c83">
+                            <did>
+                                <unittitle>Signature Used for Printing and Calling Cards</unittitle>
+                                <container id="cid264918078" type="box">3</container>
+                                <container parent="cid264918078" type="folder">20</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="item" id="C1459_c84">
+                            <did>
+                                <unittitle>Stamps Bearing Dante Gabriel Rossetti's Monogram,
+                                    "DGR"</unittitle>
+                                <container id="cid264918069" type="box">3</container>
+                                <container parent="cid264918069" type="folder">21</container>
+                                <unitdate normal="1870/1882" type="inclusive">circa
+                                    1870-1882</unitdate>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+                <c level="file" id="C1459_c85">
+                    <did>
+                        <unittitle>Scott, George</unittitle>
+                        <unitdate normal="1733/1754" type="inclusive">1733-1754</unitdate>
+                        <physdesc>
+                            <extent unit="folders">3.0 folders</extent>
+                        </physdesc>
+                    </did>
+                    <arrangement>
+                        <p>Documents are arranged chronologically.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>George Scott, skinner and burgess of Lanark, was the great-grandfather of
+                            William Bell Scott. This file group contains documents related to feudal
+                            property rights to a family home at Bloomgate and his marriage to Jean
+                            Hunter, as well as a guild ticket.</p>
+                    </scopecontent>
+                    <c level="item" id="C1459_c86">
+                        <did>
+                            <unittitle>Contract of Marriage between George Scott and Jean
+                                Hunter</unittitle>
+                            <container id="cid264915019" type="box">3</container>
+                            <container parent="cid264915019" type="folder">22</container>
+                            <unitdate type="inclusive" normal="1733-12-06/1739">1733 December
+                                6-1739</unitdate>
+                            <physdesc>
+                                <physfacet>Signed holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c87">
+                        <did>
+                            <unittitle>Discharge of Jean Hunter to George Scott, Her
+                                Husband</unittitle>
+                            <container id="cid264915018" type="box">3</container>
+                            <container parent="cid264915018" type="folder">23</container>
+                            <unitdate normal="1734/1734">1734</unitdate>
+                            <physdesc>
+                                <physfacet>Signed holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c88">
+                        <did>
+                            <unittitle>Instrument of Sasine (Delivery of Feudal Property) from
+                                Lanark</unittitle>
+                            <container id="cid264915017" type="box">3</container>
+                            <container parent="cid264915017" type="folder">24</container>
+                            <unitdate normal="1739-09-21">1739 September 21</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c89">
+                        <did>
+                            <unittitle>Burgess and Guildry Ticket Allowing George Scott (a Skinner
+                                by Trade) Liberties and Privileges for Lanark of Glasgow</unittitle>
+                            <container id="cid264915025" type="box">3</container>
+                            <container parent="cid264915025" type="folder">25</container>
+                            <unitdate normal="1754-05-24">1754 May 24</unitdate>
+                            <physdesc>
+                                <physfacet>Illuminated holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="C1459_c90">
+                    <did>
+                        <unittitle>Scott, Robert (the Elder)</unittitle>
+                        <unitdate normal="1765/1768" type="inclusive">1765-1768</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">3 folders</extent>
+                        </physdesc>
+                    </did>
+                    <arrangement>
+                        <p>Documents are arranged chronologically.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>Robert Scott (the elder) was the grandfather of William Bell Scott, a
+                            skinner and tax collector who lived at Bloomgate in Lanark and later in
+                            Musselburgh. This file group contains documents regarding feudal
+                            property and his marriage to Grizell Meikle.</p>
+                    </scopecontent>
+                    <c level="item" id="C1459_c91">
+                        <did>
+                            <unittitle>Discharge Assignation and Nomination by Grizell Meikle to
+                                Robert Scott</unittitle>
+                            <container id="cid264915024" type="box">3</container>
+                            <container parent="cid264915024" type="folder">26</container>
+                            <unitdate normal="1765/1765">1765</unitdate>
+                            <physdesc>
+                                <physfacet>Signed holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c92">
+                        <did>
+                            <unittitle>Contract of Marriage between Robert Scott and Grizell
+                                Meikle</unittitle>
+                            <container id="cid264915023" type="box">3</container>
+                            <container parent="cid264915023" type="folder">27</container>
+                            <unitdate normal="1768/1768">1768</unitdate>
+                            <physdesc>
+                                <physfacet>Signed holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c93">
+                        <did>
+                            <unittitle>Instrument of Sasine (Delivery of Feudal Property) Produced
+                                by William Brown</unittitle>
+                            <container id="cid264915022" type="box">3</container>
+                            <container parent="cid264915022" type="folder">28</container>
+                            <unitdate normal="1768/1768">1768</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document on vellum</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="C1459_c94">
+                    <did>
+                        <unittitle>Scott, Robert (the Younger)</unittitle>
+                        <unitdate normal="1806/1847" type="inclusive">1806-1847</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">8 folders</extent>
+                        </physdesc>
+                    </did>
+                    <arrangement>
+                        <p>Papers are arranged chronologically, with undated sketches at the
+                            end.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>Robert Scott (1777-1841), the father of William Bell Scott, was an
+                            engraver of small book illustrations and landscapes, active in Lanark
+                            and Edinburgh, Scotland. This file group contains legal documents
+                            regarding feudal property rights and guild membership, a letter, and two
+                            drawings, as well as estate papers retained by David Scott after his
+                            father's death. In 1800, Robert Scott married Ross Bell, the mother of
+                            David Scott and William Bell Scott.</p>
+                    </scopecontent>
+                    <c level="item" id="C1459_c95">
+                        <did>
+                            <unittitle>Edinburgh Burgess Ticket for Robert Scott
+                                (Engraver)</unittitle>
+                            <container id="cid264915021" type="box">3</container>
+                            <container parent="cid264915021" type="folder">29</container>
+                            <unitdate normal="1806-07-05">1806 July 5</unitdate>
+                            <physdesc>
+                                <physfacet>Printed document on vellum</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c96">
+                        <did>
+                            <unittitle>Erskine, David (11th Earl of Buchan), to Robert
+                                Scott</unittitle>
+                            <container id="cid264915020" type="box">3</container>
+                            <container parent="cid264915020" type="folder">30</container>
+                            <unitdate normal="1814-10-02">1814 October 2</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c97">
+                        <did>
+                            <unittitle>Instrument of Sasine (Delivery of Feudal Property) in Favor
+                                of Robert Scott and Ross Bell, His Spouse</unittitle>
+                            <container id="cid264915029" type="box">3</container>
+                            <container parent="cid264915029" type="folder">31</container>
+                            <unitdate normal="1822-07-23">1822 July 23</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document on vellum</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c98">
+                        <did>
+                            <unittitle>Codicil to Disposition and Settlement by Robert
+                                Scott</unittitle>
+                            <container id="cid264915028" type="box">3</container>
+                            <container parent="cid264915028" type="folder">32</container>
+                            <unitdate normal="1841/1846" type="inclusive">1841-1846</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph copy</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c99">
+                        <did>
+                            <unittitle>Act of Property by the Manager of the Kirk and Kirk Yard of
+                                Canongate in Favor of David Scott's Request for a Gravesite for
+                                Robert Scott</unittitle>
+                            <container id="cid264915027" type="box">3</container>
+                            <container parent="cid264915027" type="folder">33</container>
+                            <unitdate type="inclusive" normal="1844-07-18/1844-11-20">1844 July
+                                18-November 20</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document and 2 holograph receipts</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Includes two receipts.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c100">
+                        <did>
+                            <unittitle>Account Current Between J &amp; J Macandrew and the Trustees
+                                of the Late Mr. Robert Scott</unittitle>
+                            <container id="cid264915026" type="box">3</container>
+                            <container parent="cid264915026" type="folder">34</container>
+                            <unitdate normal="1847-05-19">1847 May 19</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c101">
+                        <did>
+                            <unittitle>Scott, Robert, "Epicureans"</unittitle>
+                            <container id="cid264915032" type="box">3</container>
+                            <container parent="cid264915032" type="folder">35</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <physfacet>Pen and ink drawing</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Signed, "R.S."</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c102">
+                        <did>
+                            <unittitle>Scott, Robert, "Bookishly Inclined"</unittitle>
+                            <container id="cid264915031" type="box">3</container>
+                            <container parent="cid264915031" type="folder">36</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <physfacet>Pen and ink drawing</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Signed, "R.S."</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="file" id="C1459_c103">
+                    <did>
+                        <unittitle>Scott, David</unittitle>
+                        <unitdate normal="1833/1852" type="inclusive">1833-1852</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">15 folders</extent>
+                        </physdesc>
+                    </did>
+                    <arrangement>
+                        <p>Papers are arranged chronologically.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>David Scott (1806-1849), a Scottish historical painter, was the older
+                            brother of William Bell Scott. This file group includes correspondence,
+                            an essay manuscript, and estate papers kept by William Bell Scott, who
+                            inherited his brother's property upon his death, as well as compiled his
+                            memoirs.</p>
+                        <p>Of note are two lengthy holograph letters from David Scott to his father
+                            describing his experiences while studying painting in Rome in 1833 and
+                            1834. An additional letter, from David Scott to William Bell Scott
+                            describing his philosophy and practice of art, can be found with William
+                            Bell Scott's personal correspondence.</p>
+                    </scopecontent>
+                    <c level="item" id="C1459_c104">
+                        <did>
+                            <unittitle>Scott, David, to Robert Scott</unittitle>
+                            <container id="cid264915030" type="box">3</container>
+                            <container parent="cid264915030" type="folder">37</container>
+                            <unitdate normal="1833-02-23">1833 February 23</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Written from Rome.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c105">
+                        <did>
+                            <unittitle>Scott, David, to Robert Scott</unittitle>
+                            <container id="cid264915033" type="box">3</container>
+                            <container parent="cid264915033" type="folder">38</container>
+                            <unitdate normal="1834-02-04">1834 February 4</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Written from Rome, describing David Scott's art studies abroad.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c106">
+                        <did>
+                            <unittitle>Scottish Etching Club, to David Scott</unittitle>
+                            <container id="cid264915036" type="box">3</container>
+                            <container parent="cid264915036" type="folder">39</container>
+                            <unitdate type="inclusive" normal="1842-05-09/1842-05-12">1842 May
+                                9-12</unitdate>
+                            <physdesc>
+                                <physfacet>AL</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Contains a document listing the club's "Resolutions Proposed for
+                                Adoption."</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c107">
+                        <did>
+                            <unittitle>Unidentified "Inhabitant of Dundee," to David
+                                Scott</unittitle>
+                            <container id="cid264915035" type="box">3</container>
+                            <container parent="cid264915035" type="folder">40</container>
+                            <unitdate normal="1843-07-16">1843 July 16</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Letter regards David Scott's painting <emph render="italic">Vasco de
+                                    Gama Passing the Cape of Good Hope</emph>.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c108">
+                        <did>
+                            <unittitle>Scott, David, "Of the Paintings and Mosaics of Pompeii and
+                                Herculaneum" Essay Draft</unittitle>
+                            <container id="cid264915034" type="box">3</container>
+                            <container parent="cid264915034" type="folder">41</container>
+                            <unitdate normal="1845/1845" type="inclusive">circa 1845</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c109">
+                        <did>
+                            <unittitle>Last Will and Testament of David Scott</unittitle>
+                            <container id="cid264915046" type="box">3</container>
+                            <container parent="cid264915046" type="folder">42</container>
+                            <unitdate normal="1846-06-12">1846 June 12</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Also contains added annotations and inscriptions by others.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c110">
+                        <did>
+                            <unittitle>Testament of David Scott, Giving William Bell Scott Sole
+                                Ownership of all his Property</unittitle>
+                            <container id="cid264915045" type="box">3</container>
+                            <container parent="cid264915045" type="folder">43</container>
+                            <unitdate type="inclusive" normal="1846-06-12/1849-03-12">1846 June
+                                12-1849 March 12</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c111">
+                        <did>
+                            <unittitle>Receipt Attesting to William Bell Scott's Payment for John
+                                Sterling's Release of Rights to David Scott's Painting <emph
+                                    render="italic">Vasco de Gama Passing the Cape of Good
+                                    Hope</emph>
+                            </unittitle>
+                            <container id="cid264915044" type="box">3</container>
+                            <container parent="cid264915044" type="folder">44</container>
+                            <unitdate normal="1849-03-20">1849 March 20</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c112">
+                        <did>
+                            <unittitle>Appraisement of the Effects which Belonged to the Deceased
+                                David Scott, Earl Daly House, Edinburgh</unittitle>
+                            <container id="cid264915043" type="box">3</container>
+                            <container parent="cid264915043" type="folder">45</container>
+                            <unitdate normal="1849-03-21">1849 March 21</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c113">
+                        <did>
+                            <unittitle>Auction Roll Belonging to Mrs. Scott for Items Sold at Earl
+                                Daly House, Enumerating Auction of Items from Estate</unittitle>
+                            <container id="cid264915042" type="box">3</container>
+                            <container parent="cid264915042" type="folder">46</container>
+                            <unitdate normal="1849-05-09">1849 May 9</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c114">
+                        <did>
+                            <unittitle>William Bell Scott Account with Edinburgh Booksellers C.B.
+                                Tait and Thomas Nisbet for Pictures and Sketches of David
+                                Scott</unittitle>
+                            <container id="cid264915041" type="box">3</container>
+                            <container parent="cid264915041" type="folder">47</container>
+                            <unitdate normal="1851-03-01">1851 March 1</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c115">
+                        <did>
+                            <unittitle>Official Testament Dative and Inventory of Debts and Sums of
+                                Money Owed to David Scott</unittitle>
+                            <container id="cid264915040" type="box">3</container>
+                            <container parent="cid264915040" type="folder">48</container>
+                            <unitdate normal="1852-08-05">1852 August 5</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Document shows an amount totaling 1384 British sterling to William
+                                Bell Scott.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c116">
+                        <did>
+                            <unittitle>Stamped Receipt of Debt Paid by William Bell Scott for Debt
+                                Due from David Scott's Estate</unittitle>
+                            <container id="cid264915039" type="box">3</container>
+                            <container parent="cid264915039" type="folder">49</container>
+                            <unitdate normal="1852-09-15">1852 September 15</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c117">
+                        <did>
+                            <unittitle>Residuary Account of Mr. David Scott</unittitle>
+                            <container id="cid264915038" type="box">3</container>
+                            <container parent="cid264915038" type="folder">50</container>
+                            <unitdate normal="1852/1852">1852</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Document shows debt totaling 809 British sterling.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c118">
+                        <did>
+                            <unittitle>Statement of Amount of Money Realized from the Sale of David
+                                Scott's Pictures, Books, and Effects</unittitle>
+                            <container id="cid264915037" type="box">3</container>
+                            <container parent="cid264915037" type="folder">51</container>
+                            <unitdate normal="1852/1852">1852</unitdate>
+                            <physdesc>
+                                <physfacet>Holograph document</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Document shows amount totaling 818 British sterling.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="C1459_c119">
+                <did>
+                    <unittitle>Series 2: Alice Boyd Family Papers</unittitle>
+                    <unitdate normal="1843/1897" type="inclusive">1843-1897</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">23 folders</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Alice Boyd's correspondence is followed by family correspondence, arranged
+                        alphabetically by sender, with other documents and manuscripts at the
+                        end.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>This series includes materials related to William Bell Scott's companion,
+                        Alice Boyd, and her family, primarily personal and family correspondence
+                        related to the Boyd, Courtney, and Losh families, along with one estate
+                        document. Alice Boyd owned Penkill Castle in Ayrshire, where William Bell
+                        Scott, among other known Pre-Raphaelite artists and associates, resided
+                        while working on various creative projects. Present is Boyd's correspondence
+                        with some of these figures regarding their visits to the castle, as well as
+                        her correspondence with publishers and other parties regarding Scott's work
+                        after his death. Family correspondence pertains mainly to the family's
+                        alkali business and the status of Penkill Castle, and also includes W.J.
+                        Linton's condolences to the heirs of Alice Boyd following her death in 1897.
+                        One family document is also present, regarding the disposition of the
+                        property of William Losh, Boyd's grandfather, following the sale of his
+                        alkali works business, as well as an unsigned manuscript by an unknown
+                        relative of Alice Boyd from the late 1890s, titled "The History of an Old
+                        Ayrshire Mansion," which documents the life of Alice Boyd and several major
+                        Pre-Raphaelites at Penkill Castle.</p>
+                    <p>Items of note include a letter from Christina Rossetti to Alice Boyd,
+                        following a visit to the castle in the late 1860s, as well as a letter from
+                        Spencer Boyd, Alice's brother, describing his visit to Penkill Castle prior
+                        to their residence.</p>
+                </scopecontent>
+                <c level="file" id="C1459_c120">
+                    <did>
+                        <unittitle>Boyd, Alice</unittitle>
+                        <unitdate normal="1868/1895" type="inclusive">circa 1868-1895</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">17 folders</extent>
+                        </physdesc>
+                    </did>
+                    <arrangement>
+                        <p>Letters are arranged alphabetically by correspondent, with unidentified
+                            items at the end.</p>
+                    </arrangement>
+                    <scopecontent>
+                        <p>This file group includes Alice Boyd's personal correspondence with
+                            notable friends and associates, including William Bell Scott, Christina
+                            Rossetti, W.J. Linton, and Frederick Burton.</p>
+                    </scopecontent>
+                    <c level="item" id="C1459_c121">
+                        <did>
+                            <unittitle>Aitken, Mary Carlisle, to Alice Boyd</unittitle>
+                            <container id="cid264918067" type="box">4</container>
+                            <container parent="cid264918067" type="folder">1</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c122">
+                        <did>
+                            <unittitle>Boyd, Evelyn M. Courtney, to Alice Boyd</unittitle>
+                            <container id="cid264918052" type="box">4</container>
+                            <container parent="cid264918052" type="folder">2</container>
+                            <unitdate normal="1869-02-02">1869 February 2</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Regarding finances, the Courtney family crest, and Penkill
+                                Castle.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c123">
+                        <did>
+                            <unittitle>Boyd, Spencer, to Alice Boyd</unittitle>
+                            <container id="cid264918051" type="box">4</container>
+                            <container parent="cid264918051" type="folder">3</container>
+                            <unitdate normal="1855/1857" type="inclusive">circa 1855-1857</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Describing an early visit to Penkill Castle by Spencer Boyd, the
+                                brother of Alice Boyd, prior to their residence.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C1459_c124">
+                        <did>
+                            <unittitle>Burton, Frederick W., to Alice Boyd</unittitle>
+                            <container id="cid264918065" type="box">4</container>
+                            <container parent="cid264918065" type="folder">4</container>
+                            <unitdate type="inclusive" normal="1877-03-15/1877-03-16">1877 March
+                                15-16</unitdate>
+                            <physdesc>
+                                <physfacet>2 ALSs</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C1459_c125">
+                        <did>
+                            <unittitle>Combes, W. (Editor of <emph render="italic">Illustrated
+                                    London News</emph>) to Alice Boyd</unittitle>
+                            <container id="cid264918062" type="box">4</container>
+                            <container parent="cid264918062" type="folder">5</container>
+                            <unitdate type="inclusive" normal="1890-11-27/1890-12-16">1890 November
+                                27-December 16</unitdate>
+                            <physdesc>
+                                <physfacet>4 ALSs</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c126">
+                        <did>
+                            <unittitle>Elkin Mathews and John Lane Publishers, to Alice
+                                Boyd</unittitle>
+                            <container id="cid264918064" type="box">4</container>
+                            <container parent="cid264918064" type="folder">6</container>
+                            <unitdate normal="1895-02-18">1895 February 18</unitdate>
+                            <physdesc>
+                                <physfacet>TLS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Regarding Alice Boyd's request for the return of the wood blocks and
+                                manuscript for <emph render="italic">A Poet's Harvest
+                                Home</emph>.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C1459_c127">
+                        <did>
+                            <unittitle>Ellis, F.S., to Alice Boyd</unittitle>
+                            <container id="cid264918063" type="box">4</container>
+                            <container parent="cid264918063" type="folder">7</container>
+                            <unitdate type="inclusive" normal="1870-04-16/1870-05-25">1870 April
+                                16-May 25</unitdate>
+                            <physdesc>
+                                <physfacet>4 ALSs</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C1459_c128">
+                        <did>
+                            <unittitle>Kennedy, Thomas F., to Alice Boyd</unittitle>
+                            <container id="cid264918061" type="box">4</container>
+                            <container parent="cid264918061" type="folder">8</container>
+                            <unitdate type="inclusive" normal="1878-09-02/1879-02-12">1878 September
+                                2-1879 February 12</unitdate>
+                            <physdesc>
+                                <physfacet>7 ALSs</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C1459_c129">
+                        <did>
+                            <unittitle>Linton, William J., to Alice Boyd</unittitle>
+                            <container id="cid264918060" type="box">4</container>
+                            <container parent="cid264918060" type="folder">9</container>
+                            <unitdate type="inclusive" normal="1891-05-01/1896-08-17">1891 May
+                                1-1896 August 17</unitdate>
+                            <physdesc>
+                                <physfacet>8 ALSs</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c130">
+                        <did>
+                            <unittitle>Losh, James, to Alice Boyd</unittitle>
+                            <container id="cid264918059" type="box">4</container>
+                            <container parent="cid264918059" type="folder">10</container>
+                            <unitdate normal="1877-11-22">1877 November 22</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c131">
+                        <did>
+                            <unittitle>MacLimont, John, to Alice Boyd</unittitle>
+                            <container id="cid264918058" type="box">4</container>
+                            <container parent="cid264918058" type="folder">11</container>
+                            <unitdate normal="1875-04-19">1875 April 19</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Contains printed advertisement on "Growing Wood."</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c132">
+                        <did>
+                            <unittitle>Rossetti, Christina, to Alice Boyd</unittitle>
+                            <container id="cid264918057" type="box">4</container>
+                            <container parent="cid264918057" type="folder">12</container>
+                            <unitdate normal="1868/1870" type="inclusive">circa 1868-1870</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Letter regards a recent visit by Rossetti to Penkill Castle.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C1459_c133">
+                        <did>
+                            <unittitle>Scott, William Bell, to Alice Boyd</unittitle>
+                            <container id="cid264918056" type="box">4</container>
+                            <container parent="cid264918056" type="folder">13</container>
+                            <unitdate type="inclusive" normal="1879-05-29/1879-06-10">1879 May
+                                29-June 10</unitdate>
+                            <physdesc>
+                                <physfacet>3 ALSs and a watercolor valentine</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c134">
+                        <did>
+                            <unittitle>Taylor, John (Art Association), to Alice Boyd</unittitle>
+                            <container id="cid264918066" type="box">4</container>
+                            <container parent="cid264918066" type="folder">14</container>
+                            <unitdate normal="1878-09-20">1878 September 20</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C1459_c135">
+                        <did>
+                            <unittitle>Throun, David, to Alice Boyd</unittitle>
+                            <container id="cid264918055" type="box">4</container>
+                            <container parent="cid264918055" type="folder">15</container>
+                            <unitdate type="inclusive" normal="1879-03-24/1879-08-20">1879 March
+                                24-August 20</unitdate>
+                            <physdesc>
+                                <physfacet>2 ALSs</physfacet>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="item" id="C1459_c136">
+                        <did>
+                            <unittitle>Unidentified Artist, to Alice Boyd</unittitle>
+                            <container id="cid264918054" type="box">4</container>
+                            <container parent="cid264918054" type="folder">16</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <physfacet>AL</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Letter mentions a trip to the National Gallery.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="item" id="C1459_c137">
+                        <did>
+                            <unittitle>Unidentified Person, from Alice Boyd</unittitle>
+                            <container id="cid264918053" type="box">4</container>
+                            <container parent="cid264918053" type="folder">17</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <physfacet>ALS</physfacet>
+                                <extent type="computed" unit="items">1 item</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Letter mentions the Burne-Jones Family.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="item" id="C1459_c138">
+                    <did>
+                        <unittitle>Courtney, Henry, to Unidentified Person</unittitle>
+                        <container id="cid264918045" type="box">4</container>
+                        <container parent="cid264918045" type="folder">18</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <physfacet>ALS</physfacet>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Text is crossed out.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c139">
+                    <did>
+                        <unittitle>Dobson, William Charles, to Seth Barrett</unittitle>
+                        <container id="cid264918044" type="box">4</container>
+                        <container parent="cid264918044" type="folder">19</container>
+                        <unitdate normal="1843-11-28">1843 November 28</unitdate>
+                        <physdesc>
+                            <physfacet>ALS</physfacet>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1459_c140">
+                    <did>
+                        <unittitle>Linton, W.J., to Evelyn M. Courtney-Boyd</unittitle>
+                        <container id="cid264918043" type="box">4</container>
+                        <container parent="cid264918043" type="folder">20</container>
+                        <unitdate type="inclusive" normal="1897-04-26/1897-09-20">1897 April
+                            26-September 20</unitdate>
+                        <physdesc>
+                            <physfacet>2 ALSs and 3 envelopes</physfacet>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>These letters, written on mourning stationary, were sent after the death
+                            of Alice Boyd.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c141">
+                    <did>
+                        <unittitle>MacDonald, D., to William Losh</unittitle>
+                        <container id="cid264918042" type="box">4</container>
+                        <container parent="cid264918042" type="folder">21</container>
+                        <unitdate normal="1843-12-26">1843 December 26</unitdate>
+                        <physdesc>
+                            <physfacet>ALS</physfacet>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Soliciting information about alkali manufacturing.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C1459_c142">
+                    <did>
+                        <unittitle>Mayhew, Margaret Boyd, to William Losh</unittitle>
+                        <container id="cid264918041" type="box">4</container>
+                        <container parent="cid264918041" type="folder">22</container>
+                        <unitdate normal="1855-08-24">circa 1855 August 24</unitdate>
+                        <physdesc>
+                            <physfacet>ALS and 3 pencil sketches</physfacet>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes 3 pencil sketches of Penkill Castle.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c143">
+                    <did>
+                        <unittitle>Estate Document Regarding William Losh</unittitle>
+                        <container id="cid264918040" type="box">4</container>
+                        <container parent="cid264918040" type="folder">23</container>
+                        <unitdate type="inclusive" normal="1874-05/1887-08-22">1874 May-1887 August
+                            22</unitdate>
+                        <physdesc>
+                            <physfacet>Signed holograph document</physfacet>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1459_c154">
+                    <did>
+                        <unittitle>"The History of an Old Ayrshire Mansion"</unittitle>
+                        <container type="box">4</container>
+                        <container type="folder">32</container>
+                        <unitdate type="inclusive" normal="1894/1899">circa 1894-1899</unitdate>
+                        <physdesc>
+                            <physfacet>Unsigned manuscript</physfacet>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Twelve-page manuscript by an unknown relative of Alice Boyd, possibly
+                            Margaret Courtney-Boyd or another of Boyd's nieces, which includes a
+                            detailed report on the history and inhabitants of Penkill Castle during
+                            the time of Alice Boyd's residence, with special attention to the
+                            activities of several major Pre-Raphaelites, including William Bell
+                            Scott, Dante Gabriel Rossetti, Christina Rossetti, Arthur Hughes, and
+                            others.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="C1459_c144">
+                <did>
+                    <unittitle>Series 3: Related Materials</unittitle>
+                    <unitdate normal="1834/1899" type="inclusive">1834-1890s</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">8 folders</extent>
+                    </physdesc>
+                </did>
+                <arrangement>
+                    <p>Poems are arranged alphabetically by title, followed by a letter fragment and
+                        clippings.</p>
+                </arrangement>
+                <scopecontent>
+                    <p>This series includes related papers and clippings that were retained with the
+                        collection from Penkill Castle. Included are several holograph poems by
+                        others, some copied out in the hand of William Bell Scott and others by an
+                        unknown party. Also present are a letter fragment, and clippings of Scott's
+                        early work in print magazines.</p>
+                </scopecontent>
+                <c level="item" id="C1459_c145">
+                    <did>
+                        <unittitle>"Barton Church" (1673) Poem by Unknown Poet</unittitle>
+                        <container id="cid264918075" type="box">4</container>
+                        <container parent="cid264918075" type="folder">24</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>In the hand of William Bell Scott.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c146">
+                    <did>
+                        <unittitle>"Beatrice," Poem by Arthur Joseph Munby</unittitle>
+                        <container id="cid264918049" type="box">4</container>
+                        <container parent="cid264918049" type="folder">25</container>
+                        <unitdate normal="1890-05">1890 May</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Written for the Beatrice Festival at Florence.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c147">
+                    <did>
+                        <unittitle>"For who the melodies of morn can tell..." Minstrel Poem
+                            Fragment</unittitle>
+                        <container id="cid264918074" type="box">4</container>
+                        <container parent="cid264918074" type="folder">26</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="item" id="C1459_c148">
+                    <did>
+                        <unittitle>"Lines in the Epitaph on the tomb of Shakespeare's favorite
+                            daughter," from Margaret Stokes</unittitle>
+                        <container id="cid264918050" type="box">4</container>
+                        <container parent="cid264918050" type="folder">27</container>
+                        <unitdate>April 16, no year</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="item" id="C1459_c149">
+                    <did>
+                        <unittitle altrender="New Forest, Poem by Unknown Poet">"The New Forest,"
+                            Poem by Unknown Poet</unittitle>
+                        <container id="cid264918072" type="box">4</container>
+                        <container parent="cid264918072" type="folder">28</container>
+                        <unitdate normal="1896/1896">1896</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes two Boyd family heraldry engravings.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c150">
+                    <did>
+                        <unittitle>"Sonnet on Niccolo dell' Abate" (1590) by Agostino
+                            Carracci</unittitle>
+                        <container id="cid264918073" type="box">4</container>
+                        <container parent="cid264918073" type="folder">29</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>In the hand of William Bell Scott.</p>
+                    </scopecontent>
+                </c>
+                <c level="item" id="C1459_c151">
+                    <did>
+                        <unittitle>Letter Fragment, Signed "William Dyer"</unittitle>
+                        <container id="cid264918048" type="box">4</container>
+                        <container parent="cid264918048" type="folder">30</container>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="items">1 item</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C1459_c152">
+                    <did>
+                        <unittitle>Clippings</unittitle>
+                        <container id="cid264927001" type="box">4</container>
+                        <container parent="cid264927001" type="folder">31</container>
+                        <unitdate type="inclusive" normal="1834/1844">1834-1844</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Contains clippings of William Bell Scott's early writings and engravings,
+                            including "The Martyr and the Pilgrim," a poem he published in <emph
+                                render="italic">Tait's Magazine</emph> in August, 1834, and his
+                            engravings published in <emph render="italic">Cleave's London Satirist
+                                and Gazette of Variety</emph> in the late 1830s or early 1840s.</p>
+                    </scopecontent>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
